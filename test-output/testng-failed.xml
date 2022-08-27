@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Regression Testing]">
+  <listeners>
+    <listener class-name="ca.amazon.utilities.TestUtils"/>
+  </listeners>
+  <test thread-count="5" parallel="tests" name="DryRun(failed)">
+    <classes>
+      <class name="ca.amazon.DryRun">
+        <methods>
+          <include name="primarytest"/>
+        </methods>
+      </class> <!-- ca.amazon.DryRun -->
+    </classes>
+  </test> <!-- DryRun(failed) -->
+</suite> <!-- Failed suite [Regression Testing] -->
