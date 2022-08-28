@@ -1,22 +1,22 @@
 package ca.amazon;
 
-import org.testng.Assert;
+import org.apache.log4j.Logger;
 import org.testng.annotations.Test;
 
 import ca.amazon.basepackage.BaseTest;
 
 public class DryRun extends BaseTest {
+	Logger log = Logger.getLogger(DryRun.class);
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-System.out.println("This is the Dry Running Class of the project");
-	}
 @Test
 public void primarytest() {
+	initiate();
 	
-	  String a = "Shivam"; String b = "Shiva"; if(a!=b){ Assert.assertEquals(a,b);
+	  String a = "Shivam"; String b = "Shiva"; if(a!=b){
 	  System.out.println("Dry Run is Passed"); } else {
-	  System.out.println("Dry Run is Failed"); }
-	 
+	  System.out.println("Dry Run is Failed");
+	}	 
+	  quitbrowser();
 }
+
 }

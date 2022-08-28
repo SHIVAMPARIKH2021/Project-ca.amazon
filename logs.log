@@ -1,0 +1,19 @@
+2022-08-28 05:26:33,328  INFO [main] DryRun:24 - Browser is closed
+2022-08-28 05:41:54,780  INFO [main] BaseTest:45 - Connecting with Chrome Browser
+2022-08-28 05:41:55,506  INFO [main] BaseTest:38 - Opening the URL
+2022-08-28 05:41:55,968  INFO [main] DryRun:24 - Browser is closed
+2022-08-28 05:42:58,596  INFO [main] BaseTest:45 - Connecting with Chrome Browser
+2022-08-28 05:43:00,889  INFO [main] BaseTest:38 - Opening the URL
+2022-08-28 05:43:01,758  INFO [main] DryRun:24 - Browser is closed
+2022-08-28 05:47:13,028  INFO [main] BaseTest:45 - Connecting with Chrome Browser
+2022-08-28 05:47:15,142  INFO [main] BaseTest:38 - Opening the URL
+2022-08-28 05:47:15,657  INFO [main] DryRun:24 - Browser is closed
+2022-08-28 06:09:29,040  INFO [main] BaseTest:45 - Connecting with Chrome Browser
+2022-08-28 06:09:30,627  INFO [main] BaseTest:38 - Opening the URL
+2022-08-28 06:09:31,099  INFO [main] DryRun:24 - Browser is closed
+2022-08-28 06:11:11,327  INFO [main] BaseTest:45 - Connecting with Chrome Browser
+2022-08-28 06:11:12,834  INFO [main] BaseTest:38 - Opening the URL
+2022-08-28 06:11:13,348  INFO [main] BaseTest:69 - Browser is closed
+2022-08-28 06:12:48,352  INFO [main] BaseTest:45 - Connecting with Chrome Browser
+2022-08-28 06:12:49,968  INFO [main] BaseTest:38 - Opening the URL
+2022-08-28 06:12:50,461  INFO [main] BaseTest:69 - Browser is closed
