@@ -2,7 +2,7 @@
 
 <listeners>
 		<listener class-name="ca.amazon.utilities.TestUtils" />
-	</listeners>
+</listeners>
 	
       <test name = "DryRun" allow-return-values="true"> 
            <classes> 
