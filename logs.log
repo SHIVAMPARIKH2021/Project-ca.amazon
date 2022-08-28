@@ -32,3 +32,36 @@
 2022-08-28 08:58:17,130 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
 2022-08-28 08:58:17,131 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
 2022-08-28 08:58:17,132 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-28 09:08:42,871  INFO [main] BaseTest:45 - Connecting with Chrome Browser
+2022-08-28 09:08:43,262  INFO [main] BaseTest:38 - Opening the URL
+2022-08-28 09:08:43,912  INFO [main] BaseTest:69 - Browser is closed
+2022-08-28 09:16:16,764  INFO [main] BaseTest:45 - Connecting with Chrome Browser
+2022-08-28 09:16:17,203  INFO [main] BaseTest:38 - Opening the URL
+2022-08-28 09:16:17,900  INFO [main] BaseTest:69 - Browser is closed
+2022-08-28 09:22:39,982  INFO [main] BaseTest:45 - Connecting with Chrome Browser
+2022-08-28 09:22:40,421  INFO [main] BaseTest:38 - Opening the URL
+2022-08-28 09:22:41,074  INFO [main] BaseTest:69 - Browser is closed
+2022-08-28 09:23:37,047  INFO [main] BaseTest:45 - Connecting with Chrome Browser
+2022-08-28 09:23:37,511  INFO [main] BaseTest:38 - Opening the URL
+2022-08-28 09:23:38,108  INFO [main] BaseTest:69 - Browser is closed
+2022-08-28 09:24:21,670  INFO [main] BaseTest:45 - Connecting with Chrome Browser
+2022-08-28 09:24:22,106  INFO [main] BaseTest:38 - Opening the URL
+2022-08-28 09:24:22,769  INFO [main] BaseTest:69 - Browser is closed
+2022-08-28 09:25:20,562  INFO [main] BaseTest:45 - Connecting with Chrome Browser
+2022-08-28 09:25:21,013  INFO [main] BaseTest:38 - Opening the URL
+2022-08-28 09:25:26,510  INFO [main] BaseTest:69 - Browser is closed
+2022-08-28 09:25:37,002  INFO [main] BaseTest:45 - Connecting with Chrome Browser
+2022-08-28 09:25:37,377  INFO [main] BaseTest:38 - Opening the URL
+2022-08-28 09:25:42,990  INFO [main] BaseTest:69 - Browser is closed
+2022-08-28 09:25:57,834  INFO [main] BaseTest:45 - Connecting with Chrome Browser
+2022-08-28 09:25:58,350  INFO [main] BaseTest:38 - Opening the URL
+2022-08-28 09:26:08,916  INFO [main] BaseTest:69 - Browser is closed
+2022-08-28 09:26:16,421  INFO [main] BaseTest:45 - Connecting with Chrome Browser
+2022-08-28 09:26:16,921  INFO [main] BaseTest:38 - Opening the URL
+2022-08-28 09:26:27,584  INFO [main] BaseTest:69 - Browser is closed
+2022-08-28 09:26:43,879  INFO [main] BaseTest:45 - Connecting with Chrome Browser
+2022-08-28 09:26:44,292  INFO [main] BaseTest:38 - Opening the URL
+2022-08-28 09:26:54,832  INFO [main] BaseTest:69 - Browser is closed
+2022-08-28 09:28:11,667  INFO [main] BaseTest:45 - Connecting with Chrome Browser
+2022-08-28 09:28:12,138  INFO [main] BaseTest:38 - Opening the URL
+2022-08-28 09:28:22,904  INFO [main] BaseTest:69 - Browser is closed

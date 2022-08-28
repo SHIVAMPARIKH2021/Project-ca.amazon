@@ -14,8 +14,9 @@ public class TestAmazonSignIn extends AmazonSignIn {
 	}
 	
 	@BeforeTest
-	public void StartTest() {
+	public void StartTest() throws InterruptedException {
 		initiate();
+		Thread.sleep(10000);
 	}
 	
 	@Test

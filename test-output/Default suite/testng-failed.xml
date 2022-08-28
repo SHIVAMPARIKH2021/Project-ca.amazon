@@ -3,11 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="ca.amazon.DryRun">
+      <class name="ca.amazon.TestAmazonSignIn">
         <methods>
-          <include name="primarytest"/>
+          <include name="StartTest"/>
+          <include name="SigninButtonTest"/>
+          <include name="EndTest"/>
         </methods>
-      </class> <!-- ca.amazon.DryRun -->
+      </class> <!-- ca.amazon.TestAmazonSignIn -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
