@@ -19,7 +19,7 @@ public class AmazonSignIn extends BaseTest {
 	@FindBy(xpath = "//input[@tabindex='5'and@id='continue']")
 	private static WebElement ContinueButton;
 	
-	protected AmazonSignIn(){
+	 public void AmazonSignin(){
 		PageFactory.initElements(driver,AmazonSignIn.class);
 	}
 	

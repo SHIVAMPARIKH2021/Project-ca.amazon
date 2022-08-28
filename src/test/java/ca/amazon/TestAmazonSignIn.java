@@ -20,7 +20,7 @@ public class TestAmazonSignIn extends AmazonSignIn {
 	
 	@Test
 	public void SigninButtonTest() {
-		SignIn();
+		AmazonSignin();
 		String title = driver.getTitle().toString();
 		Assert.assertEquals(title, "Amazon Sign In");
 	}
