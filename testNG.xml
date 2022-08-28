@@ -7,6 +7,7 @@
       <test name = "DryRun" allow-return-values="true"> 
            <classes> 
                    <class name = "ca.amazon.DryRun"/>
+                   <class name = "ca.amazon.TestAmazonSignIn"/>
            </classes>
       </test>
 </suite>
