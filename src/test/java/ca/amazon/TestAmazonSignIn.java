@@ -8,6 +8,7 @@ import org.testng.annotations.Test;
 import ca.amazon.pages.AmazonSignIn;
 
 public class TestAmazonSignIn extends AmazonSignIn {
+	AmazonSignIn as;
 	
 	TestAmazonSignIn() {
 		super();
@@ -16,12 +17,13 @@ public class TestAmazonSignIn extends AmazonSignIn {
 	@BeforeTest
 	public void StartTest() throws InterruptedException {
 		initiate();
-		Thread.sleep(10000);
-	}
+		as=new TestAmazonSignIn();
+		}
+
 	
 	@Test
-	public void SigninButtonTest() {
-		AmazonSignin();
+	public void SigninButtonTest() throws InterruptedException {
+		as.SignIn();
 		String title = driver.getTitle().toString();
 		Assert.assertEquals(title, "Amazon Sign In");
 	}

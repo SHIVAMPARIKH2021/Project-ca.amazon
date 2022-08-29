@@ -9,7 +9,7 @@ import ca.amazon.basepackage.BaseTest;
 public class AmazonSignIn extends BaseTest {
     static Actions action;
     
-    @FindBy(id = "nav-link-accountList-nav-line-1")
+    @FindBy(xpath = "//span[text()= 'Hello, Sign in']")
     private static WebElement SignInDropdown;
     
     @FindBy(xpath = "//span[text()='Sign in']")
@@ -21,20 +21,21 @@ public class AmazonSignIn extends BaseTest {
 	@FindBy(xpath = "//input[@tabindex='5'and@id='continue']")
 	private static WebElement ContinueButton;
 	
-	 public void AmazonSignin(){
-		PageFactory.initElements(driver,AmazonSignIn.class);
+	 public AmazonSignIn(){
+		PageFactory.initElements(driver,this);
 	}
 	
-	public static void SignIn(){
+	public void SignIn() throws InterruptedException{
+		action = new Actions(driver);
 		action.moveToElement(SignInDropdown).build().perform();
 		SignInButton.click();
 	}
 	
-	public static void Email(String loginid) {
+	public void Email(String loginid) {
 		EmailOrMobile.sendKeys(loginid);
 	}
 	
-	public static void Mobilenumber(String mobileloginid) {
+	public void Mobilenumber(String mobileloginid) {
 		EmailOrMobile.sendKeys(mobileloginid);
 	}
 	

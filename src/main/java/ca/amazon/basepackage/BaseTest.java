@@ -17,7 +17,10 @@ public class BaseTest {
 	private static FileInputStream file;
 	private static Properties prop;
 	protected static WebDriver driver;
-	private static Logger log = Logger.getLogger(BaseTest.class);;
+	private static Logger log = Logger.getLogger(BaseTest.class);
+	protected final static int EXPLICIT_WAIT=50;
+	protected static final int IMPLICIT_WAIT=10;
+	
 
 	
 	public BaseTest() {

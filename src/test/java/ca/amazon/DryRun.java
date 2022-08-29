@@ -1,16 +1,21 @@
 package ca.amazon;
 
-import org.apache.log4j.Logger;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Action;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
 
 import ca.amazon.basepackage.BaseTest;
 
 public class DryRun extends BaseTest {
-	Logger log = Logger.getLogger(DryRun.class);
+
+	@FindBy(xpath = "//span[text()= 'Hello, Sign in']")
+    private static WebElement SignInDropdown;
+	
+	@FindBy(xpath = "//span[text()='Sign in']")
+    private static WebElement SignInButton;
+	
 
 @Test
 public void primarytest() {
@@ -24,11 +29,16 @@ public void primarytest() {
 }
 @Test
 public void secondtest() {
-	initiate();
-	Actions action = new Actions(driver);
-	action.moveToElement(driver.findElement(By.xpath("//span[text()='Hello, Sign in']"))).build().perform();
-	action.moveToElement(driver.findElement(By.xpath("//span[text()='Hello, Sign in']"))).build().perform();
-	driver.findElement(By.xpath("//span[text()='Sign in']")).click();
+	/*
+	 * initiate(); PageFactory.initElements(driver, DryRun.class); Actions action =
+	 * new Actions(driver);
+	 * action.moveToElement(SignInDropdown).pause(100).build().perform();
+	 * //action.moveToElement(driver.findElement(By.
+	 * xpath("//span[text()='Hello, Sign in']"))).build().perform();
+	 * //action.moveToElement(driver.findElement(By.
+	 * xpath("//span[text()='Hello, Sign in']"))).build().perform();
+	 * SignInButton.click();
+	 */
 }
 
 }
