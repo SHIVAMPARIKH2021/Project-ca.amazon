@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 14.74 sec <<< FAILURE!
+SigninButtonTest(ca.amazon.TestAmazonSignIn)  Time elapsed: 0.1 sec  <<< FAILURE!
+java.lang.AssertionError: expected [Amazon Sign In] but found [Amazon.ca: Low Prices – Fast Shipping – Millions of Items]
+	at org.testng.Assert.fail(Assert.java:110)
+	at org.testng.Assert.failNotEquals(Assert.java:1413)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+	at org.testng.Assert.assertEquals(Assert.java:131)
+	at org.testng.Assert.assertEquals(Assert.java:655)
+	at org.testng.Assert.assertEquals(Assert.java:665)
+	at ca.amazon.TestAmazonSignIn.SigninButtonTest(TestAmazonSignIn.java:26)
+
