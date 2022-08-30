@@ -1,12 +1,13 @@
 package ca.amazon;
 
+import java.io.IOException;
+
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
 
 import ca.amazon.basepackage.BaseTest;
+import net.sourceforge.tess4j.TesseractException;
 
 public class DryRun extends BaseTest {
 
@@ -28,7 +29,9 @@ public void primarytest() {
 	  quitbrowser();
 }
 @Test
-public void secondtest() {
+public void secondtest() throws IOException, TesseractException {
+	
+	
 	/*
 	 * initiate(); PageFactory.initElements(driver, DryRun.class); Actions action =
 	 * new Actions(driver);
@@ -39,6 +42,8 @@ public void secondtest() {
 	 * xpath("//span[text()='Hello, Sign in']"))).build().perform();
 	 * SignInButton.click();
 	 */
+	 
 }
+
 
 }

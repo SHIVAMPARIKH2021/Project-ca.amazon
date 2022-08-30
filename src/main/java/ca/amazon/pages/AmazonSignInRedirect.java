@@ -2,8 +2,13 @@ package ca.amazon.pages;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
 
-public class AmazonSignInRedirect {
+import ca.amazon.basepackage.BaseTest;
+
+public class AmazonSignInRedirect extends BaseTest {
+	
+	
 	
 	@FindBy(id = "ap_password")
 	private static WebElement Password;
@@ -14,15 +19,19 @@ public class AmazonSignInRedirect {
 	@FindBy(xpath = "//input[@name='rememberMe'and@tabindex='4']")
 	private static WebElement RememberMe;
 	
-	public static void Password(String password) {
+	public AmazonSignInRedirect(){
+		PageFactory.initElements(driver,this);
+	}
+	
+	public void Password(String password) {
 		Password.sendKeys(password);
 	}
 	
-	public static void RememberMe() {
+	public void RememberMe() {
 		RememberMe.click();
 	}
 	
-	public static HomePage SignIn() {
+	public HomePage SignInAccount() {
 		SignIn.click();
 		return new HomePage();
 	}

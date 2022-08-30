@@ -132,3 +132,1471 @@
 2022-08-29 03:15:36,270  INFO [main] BaseTest:48 - Connecting with Chrome Browser
 2022-08-29 03:15:38,268  INFO [main] BaseTest:41 - Opening the URL
 2022-08-29 03:15:40,099  INFO [main] BaseTest:72 - Browser is closed
+2022-08-29 03:29:46,856  INFO [main] BaseTest:48 - Connecting with Chrome Browser
+2022-08-29 03:29:49,169  INFO [main] BaseTest:41 - Opening the URL
+2022-08-29 03:29:51,630  INFO [main] BaseTest:72 - Browser is closed
+2022-08-29 03:55:43,037  INFO [main] BaseTest:48 - Connecting with Chrome Browser
+2022-08-29 03:55:45,304  INFO [main] BaseTest:41 - Opening the URL
+2022-08-29 03:55:49,113  INFO [main] BaseTest:72 - Browser is closed
+2022-08-29 03:59:34,019  INFO [main] BaseTest:48 - Connecting with Chrome Browser
+2022-08-29 03:59:34,465  INFO [main] BaseTest:41 - Opening the URL
+2022-08-29 03:59:35,005  INFO [main] BaseTest:72 - Browser is closed
+2022-08-29 04:00:51,908  INFO [main] BaseTest:48 - Connecting with Chrome Browser
+2022-08-29 04:00:52,394  INFO [main] BaseTest:41 - Opening the URL
+2022-08-29 04:00:53,122  INFO [main] BaseTest:72 - Browser is closed
+2022-08-29 04:01:28,172  INFO [main] BaseTest:48 - Connecting with Chrome Browser
+2022-08-29 04:01:28,622  INFO [main] BaseTest:41 - Opening the URL
+2022-08-29 04:01:42,615  INFO [main] BaseTest:48 - Connecting with Chrome Browser
+2022-08-29 04:01:42,943  INFO [main] BaseTest:41 - Opening the URL
+2022-08-29 04:03:21,004  INFO [main] BaseTest:48 - Connecting with Chrome Browser
+2022-08-29 04:03:21,428  INFO [main] BaseTest:41 - Opening the URL
+2022-08-29 04:03:58,025  INFO [main] BaseTest:48 - Connecting with Chrome Browser
+2022-08-29 04:03:58,444  INFO [main] BaseTest:41 - Opening the URL
+2022-08-29 04:04:09,327  INFO [main] BaseTest:48 - Connecting with Chrome Browser
+2022-08-29 04:04:09,791  INFO [main] BaseTest:41 - Opening the URL
+2022-08-29 04:06:50,299  INFO [main] BaseTest:49 - Connecting with Chrome Browser
+2022-08-29 04:06:50,747  INFO [main] BaseTest:41 - Opening the URL
+2022-08-29 04:51:04,440  INFO [main] BaseTest:56 - Connecting with Chrome Browser
+2022-08-29 04:51:04,840  INFO [main] BaseTest:48 - Opening the URL
+2022-08-29 04:53:10,440  INFO [main] BaseTest:56 - Connecting with Chrome Browser
+2022-08-29 04:53:10,890  INFO [main] BaseTest:48 - Opening the URL
+2022-08-29 04:55:57,624  INFO [main] BaseTest:56 - Connecting with Chrome Browser
+2022-08-29 04:55:58,065  INFO [main] BaseTest:48 - Opening the URL
+2022-08-29 04:58:06,845  INFO [main] BaseTest:56 - Connecting with Chrome Browser
+2022-08-29 04:58:07,174  INFO [main] BaseTest:48 - Opening the URL
+2022-08-29 04:59:47,180  INFO [main] BaseTest:56 - Connecting with Chrome Browser
+2022-08-29 04:59:47,511  INFO [main] BaseTest:48 - Opening the URL
+2022-08-29 05:01:13,014  INFO [main] BaseTest:56 - Connecting with Chrome Browser
+2022-08-29 05:01:13,317  INFO [main] BaseTest:48 - Opening the URL
+2022-08-29 05:02:28,854  INFO [main] BaseTest:56 - Connecting with Chrome Browser
+2022-08-29 05:02:29,206  INFO [main] BaseTest:48 - Opening the URL
+2022-08-29 05:04:40,180  INFO [main] BaseTest:56 - Connecting with Chrome Browser
+2022-08-29 05:04:40,501  INFO [main] BaseTest:48 - Opening the URL
+2022-08-29 05:05:00,938  INFO [main] BaseTest:56 - Connecting with Chrome Browser
+2022-08-29 05:05:01,212  INFO [main] BaseTest:48 - Opening the URL
+2022-08-29 05:08:45,545  INFO [main] BaseTest:56 - Connecting with Chrome Browser
+2022-08-29 05:08:45,881  INFO [main] BaseTest:48 - Opening the URL
+2022-08-29 05:15:56,068  INFO [main] BaseTest:57 - Connecting with Chrome Browser
+2022-08-29 05:15:57,329  INFO [main] BaseTest:49 - Opening the URL
+2022-08-29 05:23:10,440  INFO [main] BaseTest:57 - Connecting with Chrome Browser
+2022-08-29 05:23:11,832  INFO [main] BaseTest:49 - Opening the URL
+2022-08-29 05:34:59,275  INFO [main] BaseTest:57 - Connecting with Chrome Browser
+2022-08-29 05:35:00,599  INFO [main] BaseTest:49 - Opening the URL
+2022-08-29 05:37:21,419  INFO [main] BaseTest:57 - Connecting with Chrome Browser
+2022-08-29 05:37:23,165  INFO [main] BaseTest:49 - Opening the URL
+2022-08-29 05:37:24,654 ERROR [main] BaseTest:101 - Can not automate the Script
+2022-08-29 05:38:55,866  INFO [main] BaseTest:57 - Connecting with Chrome Browser
+2022-08-29 05:38:58,335  INFO [main] BaseTest:49 - Opening the URL
+2022-08-29 05:38:59,649 ERROR [main] BaseTest:101 - Can not automate the Script
+2022-08-29 05:41:26,384  INFO [main] BaseTest:57 - Connecting with Chrome Browser
+2022-08-29 05:41:29,025  INFO [main] BaseTest:49 - Opening the URL
+2022-08-29 05:41:30,347 ERROR [main] BaseTest:101 - Can not automate the Script
+2022-08-29 05:41:30,960  INFO [main] BaseTest:81 - Browser is closed
+2022-08-29 05:43:13,910  INFO [main] BaseTest:57 - Connecting with Chrome Browser
+2022-08-29 05:43:14,661  INFO [main] BaseTest:49 - Opening the URL
+2022-08-29 05:43:15,506  INFO [main] BaseTest:81 - Browser is closed
+2022-08-29 05:44:56,917  INFO [main] BaseTest:57 - Connecting with Chrome Browser
+2022-08-29 05:44:57,611  INFO [main] BaseTest:49 - Opening the URL
+2022-08-29 05:45:43,164  INFO [main] BaseTest:57 - Connecting with Chrome Browser
+2022-08-29 05:45:43,643  INFO [main] BaseTest:49 - Opening the URL
+2022-08-29 05:56:56,995  INFO [main] BaseTest:61 - Connecting with Chrome Browser
+2022-08-29 05:56:59,116  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 05:57:01,171 ERROR [main] BaseTest:105 - Can not automate the Script
+2022-08-29 05:58:16,151  INFO [main] BaseTest:61 - Connecting with Chrome Browser
+2022-08-29 05:58:18,226  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 06:00:24,853  INFO [main] BaseTest:61 - Connecting with Chrome Browser
+2022-08-29 06:00:27,355  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 06:01:01,222  INFO [main] BaseTest:61 - Connecting with Chrome Browser
+2022-08-29 06:01:03,723  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 06:04:30,314  INFO [main] BaseTest:61 - Connecting with Chrome Browser
+2022-08-29 06:04:32,708  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 06:27:54,921  INFO [main] BaseTest:59 - Connecting with Chrome Browser
+2022-08-29 06:27:55,607  INFO [main] BaseTest:50 - Opening the URL
+2022-08-29 06:27:56,342  INFO [main] BaseTest:83 - Browser is closed
+2022-08-29 06:39:44,784  INFO [TestNG-tests-1] BaseTest:59 - Connecting with Chrome Browser
+2022-08-29 06:39:46,301  INFO [TestNG-tests-1] BaseTest:50 - Opening the URL
+2022-08-29 06:39:48,934  INFO [TestNG-tests-1] BaseTest:59 - Connecting with Chrome Browser
+2022-08-29 06:39:49,426  INFO [TestNG-tests-1] BaseTest:50 - Opening the URL
+2022-08-29 06:39:50,125  INFO [TestNG-tests-1] BaseTest:83 - Browser is closed
+2022-08-29 06:39:51,587  INFO [TestNG-tests-1] BaseTest:59 - Connecting with Chrome Browser
+2022-08-29 06:39:51,931  INFO [TestNG-tests-1] BaseTest:50 - Opening the URL
+2022-08-29 06:39:53,438  INFO [TestNG-tests-1] BaseTest:59 - Connecting with Chrome Browser
+2022-08-29 06:39:53,774  INFO [TestNG-tests-1] BaseTest:50 - Opening the URL
+2022-08-29 06:39:55,451  INFO [TestNG-tests-1] BaseTest:59 - Connecting with Chrome Browser
+2022-08-29 06:39:55,830  INFO [TestNG-tests-1] BaseTest:50 - Opening the URL
+2022-08-29 06:39:57,438  INFO [TestNG-tests-1] BaseTest:59 - Connecting with Chrome Browser
+2022-08-29 06:39:57,800  INFO [TestNG-tests-1] BaseTest:50 - Opening the URL
+2022-08-29 06:39:59,626  INFO [TestNG-tests-1] BaseTest:59 - Connecting with Chrome Browser
+2022-08-29 06:39:59,980  INFO [TestNG-tests-1] BaseTest:50 - Opening the URL
+2022-08-29 06:40:01,748  INFO [TestNG-tests-1] BaseTest:59 - Connecting with Chrome Browser
+2022-08-29 06:40:02,254  INFO [TestNG-tests-1] BaseTest:50 - Opening the URL
+2022-08-29 06:40:03,975  INFO [TestNG-tests-1] BaseTest:59 - Connecting with Chrome Browser
+2022-08-29 06:40:04,375  INFO [TestNG-tests-1] BaseTest:50 - Opening the URL
+2022-08-29 06:40:06,100  INFO [TestNG-tests-1] BaseTest:59 - Connecting with Chrome Browser
+2022-08-29 06:40:06,787  INFO [TestNG-tests-1] BaseTest:50 - Opening the URL
+2022-08-29 06:40:08,977  INFO [TestNG-tests-1] BaseTest:59 - Connecting with Chrome Browser
+2022-08-29 06:40:09,615  INFO [TestNG-tests-1] BaseTest:50 - Opening the URL
+2022-08-29 06:40:11,648  INFO [TestNG-tests-1] BaseTest:59 - Connecting with Chrome Browser
+2022-08-29 06:40:12,493  INFO [TestNG-tests-1] BaseTest:50 - Opening the URL
+2022-08-29 06:40:14,828  INFO [TestNG-tests-1] BaseTest:59 - Connecting with Chrome Browser
+2022-08-29 06:40:15,349  INFO [TestNG-tests-1] BaseTest:50 - Opening the URL
+2022-08-29 06:40:17,657  INFO [TestNG-tests-1] BaseTest:59 - Connecting with Chrome Browser
+2022-08-29 06:40:18,373  INFO [TestNG-tests-1] BaseTest:50 - Opening the URL
+2022-08-29 06:40:18,960  INFO [TestNG-tests-1] BaseTest:83 - Browser is closed
+2022-08-29 06:40:19,464 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 06:40:19,467 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 06:40:19,468 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 06:40:19,472 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 06:40:19,472 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 06:40:19,835 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 06:40:19,835 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 06:40:19,836 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 06:40:19,836 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 06:40:19,836 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 06:48:36,897  INFO [TestNG-tests-1] BaseTest:59 - Connecting with Chrome Browser
+2022-08-29 06:48:37,301  INFO [TestNG-tests-1] BaseTest:50 - Opening the URL
+2022-08-29 06:48:38,116 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 06:48:38,119 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 06:48:38,121 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 06:48:38,124 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 06:48:38,124 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 06:48:38,602 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 06:48:38,604 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 06:48:38,604 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 06:48:38,605 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 06:48:38,606 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 06:49:51,945  INFO [TestNG-tests-1] BaseTest:59 - Connecting with Chrome Browser
+2022-08-29 06:49:52,373  INFO [TestNG-tests-1] BaseTest:50 - Opening the URL
+2022-08-29 06:49:53,152 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 06:49:53,153 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 06:49:53,154 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 06:49:53,155 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 06:49:53,156 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 06:49:53,389 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 06:49:53,389 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 06:49:53,389 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 06:49:53,389 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 06:49:53,390 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 06:51:29,087  INFO [TestNG-tests-1] BaseTest:59 - Connecting with Chrome Browser
+2022-08-29 06:51:29,584  INFO [TestNG-tests-1] BaseTest:50 - Opening the URL
+2022-08-29 06:51:31,235 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 06:51:31,237 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 06:51:31,239 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 06:51:31,240 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 06:51:31,241 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 06:51:31,465 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 06:51:31,466 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 06:51:31,466 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 06:51:31,467 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 06:51:31,467 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 06:52:27,890  INFO [TestNG-tests-1] BaseTest:59 - Connecting with Chrome Browser
+2022-08-29 06:52:28,386  INFO [TestNG-tests-1] BaseTest:50 - Opening the URL
+2022-08-29 06:52:39,077 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 06:52:39,077 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 06:52:39,093 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 06:52:39,095 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 06:52:39,097 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 06:52:39,534 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 06:52:39,535 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 06:52:39,535 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 06:52:39,535 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 06:52:39,535 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 06:53:29,916  INFO [TestNG-tests-1] BaseTest:59 - Connecting with Chrome Browser
+2022-08-29 06:53:30,368  INFO [TestNG-tests-1] BaseTest:50 - Opening the URL
+2022-08-29 06:53:41,071 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 06:53:41,074 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 06:53:41,078 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 06:53:41,081 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 06:53:41,082 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 06:53:41,557 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 06:53:41,558 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 06:53:41,558 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 06:53:41,559 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 06:53:41,559 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 07:15:58,939  INFO [TestNG-tests-1] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 07:15:59,325  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 07:16:10,183 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 07:16:10,185 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 07:16:10,188 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 07:16:10,190 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 07:16:10,190 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 07:16:10,526 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 07:16:10,527 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 07:16:10,527 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 07:16:10,527 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 07:16:10,527 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 07:17:14,255  INFO [main] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 07:17:14,626  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 07:17:29,430  INFO [main] BaseTest:89 - Browser is closed
+2022-08-29 07:22:35,923  INFO [main] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 07:22:36,275  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 07:22:57,021  INFO [main] BaseTest:89 - Browser is closed
+2022-08-29 07:23:35,756  INFO [main] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 07:23:36,140  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 07:40:17,060  INFO [main] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 07:40:17,594  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 07:43:09,947  INFO [main] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 07:43:10,458  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 07:44:22,957  INFO [main] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 07:44:23,496  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 07:47:05,782  INFO [main] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 07:47:06,270  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 07:51:48,824  INFO [main] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 07:51:49,186  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 07:52:42,129  INFO [main] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 07:52:44,777  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 07:56:15,466  INFO [main] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 07:56:16,238  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 07:56:54,324  INFO [main] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 07:56:56,490  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 22:09:48,824  INFO [main] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 22:09:48,828  INFO [main] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 22:09:49,661  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 22:09:51,276  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 22:09:56,701  INFO [main] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 22:09:58,552  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 22:10:02,335  INFO [main] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 22:10:03,640  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 22:11:00,808  INFO [main] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 22:11:01,268  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 22:17:19,818  INFO [main] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 22:17:21,789  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 22:25:59,091  INFO [main] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 22:26:01,384  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 22:26:06,281  INFO [main] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 22:26:08,235  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 22:26:12,640  INFO [main] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 22:26:14,309  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 22:54:17,259  INFO [main] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 22:54:19,340  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 22:54:23,704  INFO [main] BaseTest:89 - Browser is closed
+2022-08-29 22:59:09,686  INFO [main] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 22:59:11,920  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 22:59:16,384  INFO [main] BaseTest:89 - Browser is closed
+2022-08-29 23:00:47,957  INFO [main] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 23:00:50,716  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 23:00:54,979  INFO [main] BaseTest:89 - Browser is closed
+2022-08-29 23:01:23,657  INFO [TestNG-tests-1] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 23:01:25,989  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:01:28,032  INFO [TestNG-tests-1] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 23:01:30,430  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:01:35,204  INFO [TestNG-tests-1] BaseTest:89 - Browser is closed
+2022-08-29 23:01:35,688 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:01:35,690 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:01:35,693 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:01:35,695 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:01:35,696 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:01:36,227 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:01:36,233 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:01:36,234 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:01:36,234 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:01:36,234 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:03:32,807  INFO [main] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 23:03:34,578  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 23:03:38,949  INFO [main] BaseTest:89 - Browser is closed
+2022-08-29 23:03:56,151  INFO [TestNG-tests-1] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 23:03:56,838  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:04:06,196  INFO [TestNG-tests-1] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 23:04:08,471  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:04:13,890  INFO [TestNG-tests-1] BaseTest:89 - Browser is closed
+2022-08-29 23:04:14,366 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:04:14,366 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:04:14,366 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:04:14,374 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:04:14,374 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:04:14,721 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:04:14,721 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:04:14,721 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:04:14,721 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:04:14,721 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:07:59,210  INFO [TestNG-tests-1] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 23:08:01,228  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:08:03,609  INFO [TestNG-tests-1] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 23:08:05,784  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:08:10,071  INFO [TestNG-tests-1] BaseTest:89 - Browser is closed
+2022-08-29 23:08:10,598 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:08:10,599 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:08:10,609 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:08:10,611 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:08:10,611 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:08:11,060 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:08:11,060 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:08:11,060 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:08:11,060 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:08:11,060 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:12:13,096  INFO [TestNG-tests-1] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 23:12:15,264  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:12:17,457  INFO [TestNG-tests-1] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 23:12:19,894  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:12:23,875  INFO [TestNG-tests-1] BaseTest:89 - Browser is closed
+2022-08-29 23:12:24,272 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:12:24,277 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:12:24,282 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:12:24,285 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:12:24,285 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:12:24,746 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:12:24,747 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:12:24,748 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:12:24,749 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:12:24,750 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:14:16,609  INFO [main] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 23:14:18,184  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 23:14:21,591  INFO [main] BaseTest:89 - Browser is closed
+2022-08-29 23:17:23,826  INFO [main] BaseTest:64 - Connecting with Chrome Browser
+2022-08-29 23:17:25,885  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 23:17:29,330  INFO [main] BaseTest:88 - Browser is closed
+2022-08-29 23:17:38,378  INFO [main] BaseTest:64 - Connecting with Chrome Browser
+2022-08-29 23:17:40,669  INFO [main] BaseTest:53 - Opening the URL
+2022-08-29 23:17:48,843  INFO [main] BaseTest:88 - Browser is closed
+2022-08-29 23:18:01,095  INFO [TestNG-tests-1] BaseTest:64 - Connecting with Chrome Browser
+2022-08-29 23:18:02,884  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:18:05,189  INFO [TestNG-tests-1] BaseTest:64 - Connecting with Chrome Browser
+2022-08-29 23:18:07,986  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:18:12,914  INFO [TestNG-tests-1] BaseTest:88 - Browser is closed
+2022-08-29 23:18:13,384 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:18:13,391 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:18:13,393 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:18:13,394 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:18:13,394 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:18:13,704 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:18:13,705 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:18:13,705 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:18:13,706 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:18:13,706 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:19:17,820  INFO [TestNG-tests-1] BaseTest:64 - Connecting with Chrome Browser
+2022-08-29 23:19:19,727  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:19:22,131  INFO [TestNG-tests-1] BaseTest:64 - Connecting with Chrome Browser
+2022-08-29 23:19:24,458  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:19:30,001  INFO [TestNG-tests-1] BaseTest:88 - Browser is closed
+2022-08-29 23:19:30,573 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:19:30,581 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:19:30,584 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:19:30,586 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:19:30,587 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:19:31,067 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:19:31,068 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:19:31,068 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:19:31,069 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:19:31,070 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:22:46,000  INFO [TestNG-tests-1] BaseTest:64 - Connecting with Chrome Browser
+2022-08-29 23:22:47,891  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:22:51,569  INFO [TestNG-tests-1] BaseTest:88 - Browser is closed
+2022-08-29 23:22:51,904 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:22:51,909 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:22:51,914 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:22:51,917 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:22:51,919 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:22:52,385 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:22:52,386 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:22:52,387 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:22:52,387 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:22:52,388 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:23:20,124  INFO [TestNG-tests-1] BaseTest:64 - Connecting with Chrome Browser
+2022-08-29 23:23:20,725  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:23:26,962  INFO [TestNG-tests-1] BaseTest:88 - Browser is closed
+2022-08-29 23:23:27,190 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:23:27,192 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:23:27,195 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:23:27,197 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:23:27,198 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:23:27,459 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:23:27,460 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:23:27,460 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:23:27,460 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:23:27,461 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:23:59,133  INFO [TestNG-tests-1] BaseTest:64 - Connecting with Chrome Browser
+2022-08-29 23:24:02,148  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:24:06,492  INFO [TestNG-tests-1] BaseTest:88 - Browser is closed
+2022-08-29 23:24:06,801 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:24:06,803 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:24:06,805 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:24:06,807 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:24:06,807 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:24:07,236 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:24:07,237 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:24:07,238 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:24:07,238 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:24:07,239 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:24:28,281  INFO [TestNG-tests-1] BaseTest:64 - Connecting with Chrome Browser
+2022-08-29 23:24:30,630  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:24:32,730  INFO [TestNG-tests-1] BaseTest:64 - Connecting with Chrome Browser
+2022-08-29 23:24:35,437  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:24:44,172  INFO [TestNG-tests-1] BaseTest:88 - Browser is closed
+2022-08-29 23:24:44,607 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:24:44,609 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:24:44,610 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:24:44,612 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:24:44,612 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:24:45,003 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:24:45,004 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:24:45,005 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:24:45,005 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:24:45,006 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:35:18,467  INFO [TestNG-tests-1] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 23:35:20,494  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:35:22,911  INFO [TestNG-tests-1] BaseTest:65 - Connecting with Chrome Browser
+2022-08-29 23:35:25,024  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:35:27,797  INFO [TestNG-tests-1] BaseTest:89 - Browser is closed
+2022-08-29 23:35:28,196 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:35:28,196 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:35:28,211 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:35:28,214 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:35:28,215 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:35:28,488 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:35:28,488 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:35:28,488 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:35:28,488 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:35:28,493 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:37:58,946  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-29 23:37:59,771  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:38:01,509  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-29 23:38:03,541  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:38:11,740  INFO [TestNG-tests-1] BaseTest:92 - Browser is closed
+2022-08-29 23:38:12,117 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:38:12,119 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:38:12,121 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:38:12,124 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:38:12,125 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:38:12,649 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:38:12,649 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:38:12,649 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:38:12,649 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:38:12,649 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:38:31,372  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-29 23:38:33,588  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:38:35,648  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-29 23:38:36,408  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:38:37,729 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:38:37,734 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:38:37,738 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:38:37,738 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:38:37,738 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:38:38,226 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:38:38,226 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:38:38,234 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:38:38,234 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:38:38,235 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:39:27,167  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-29 23:39:29,434  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:39:31,103  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-29 23:39:32,942  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:39:35,267 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:39:35,270 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:39:35,272 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:39:35,274 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:39:35,275 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:39:35,675 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:39:35,676 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:39:35,676 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:39:35,677 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:39:35,678 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:40:34,321  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-29 23:40:36,171  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:40:38,222  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-29 23:40:40,507  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:40:44,066  INFO [TestNG-tests-1] BaseTest:91 - Browser is closed
+2022-08-29 23:40:44,484 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:40:44,484 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:40:44,488 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:40:44,490 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:40:44,490 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:40:44,994 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:40:44,994 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:40:44,994 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:40:44,994 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:40:44,994 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:41:35,031  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-29 23:41:37,272  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:41:38,078 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:41:38,080 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:41:38,082 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:41:38,083 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:41:38,084 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:41:38,407 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:41:38,408 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:41:38,409 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:41:38,410 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:41:38,411 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:48:35,926  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-29 23:48:38,754  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:48:40,481  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-29 23:48:42,801  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:48:46,412  INFO [TestNG-tests-1] BaseTest:91 - Browser is closed
+2022-08-29 23:48:46,790 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:48:46,792 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:48:46,794 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:48:46,795 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:48:46,796 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:48:47,158 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:48:47,159 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:48:47,159 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:48:47,159 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:48:47,159 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:49:59,248  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-29 23:50:01,867  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:50:03,885  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-29 23:50:06,771  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:50:11,235  INFO [TestNG-tests-1] BaseTest:91 - Browser is closed
+2022-08-29 23:50:11,734 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:50:11,736 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:50:11,738 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:50:11,740 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:50:11,740 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:50:12,063 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:50:12,063 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:50:12,063 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:50:12,063 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:50:12,063 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:53:24,469  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-29 23:53:26,743  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:53:28,915  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-29 23:53:31,405  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:53:47,037 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:53:47,038 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:53:47,039 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:53:47,040 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:53:47,042 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:53:47,523 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:53:47,524 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:53:47,525 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:53:47,526 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:53:47,526 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:54:59,623  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-29 23:55:01,971  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:55:04,191  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-29 23:55:06,740  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:55:11,378  INFO [TestNG-tests-1] BaseTest:91 - Browser is closed
+2022-08-29 23:55:11,861 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:55:11,861 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:55:11,870 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:55:11,874 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:55:11,874 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:55:12,257 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:55:12,258 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:55:12,259 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:55:12,260 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:55:12,261 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:55:37,692  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-29 23:55:40,159  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-29 23:55:44,310  INFO [TestNG-tests-1] BaseTest:91 - Browser is closed
+2022-08-29 23:55:44,640 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:55:44,643 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:55:44,646 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:55:44,647 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:55:44,648 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-29 23:55:45,085 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-29 23:55:45,101 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-29 23:55:45,101 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-29 23:55:45,102 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-29 23:55:45,102 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 00:00:15,352  INFO [TestNG-tests-2] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 00:00:15,352  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 00:00:17,182  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-30 00:00:18,968  INFO [TestNG-tests-2] BaseTest:53 - Opening the URL
+2022-08-30 00:00:23,587  INFO [TestNG-tests-2] BaseTest:91 - Browser is closed
+2022-08-30 00:00:24,179 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 00:00:24,183 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 00:00:24,187 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 00:00:24,190 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 00:00:24,191 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 00:00:24,836 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 00:00:24,837 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 00:00:24,837 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 00:00:24,838 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 00:00:24,839 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 00:11:22,655  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 00:11:24,662  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-30 00:11:26,738  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 00:11:29,042  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-30 00:11:34,570  INFO [TestNG-tests-1] BaseTest:91 - Browser is closed
+2022-08-30 00:11:35,133 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 00:11:35,133 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 00:11:35,136 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 00:11:35,137 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 00:11:35,137 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 00:11:35,683 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 00:11:35,683 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 00:11:35,683 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 00:11:35,686 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 00:11:35,686 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 00:17:04,457  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 00:17:07,052  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-30 00:17:09,389  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 00:17:09,902  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-30 00:17:17,151  INFO [TestNG-tests-1] BaseTest:91 - Browser is closed
+2022-08-30 00:17:17,599 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 00:17:17,602 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 00:17:17,603 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 00:17:17,603 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 00:17:17,603 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 00:17:18,090 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 00:17:18,090 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 00:17:18,090 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 00:17:18,090 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 00:17:18,090 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 00:24:40,230  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 00:24:42,330  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-30 00:24:44,718  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 00:24:46,389  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-30 00:24:51,571  INFO [TestNG-tests-1] BaseTest:91 - Browser is closed
+2022-08-30 00:24:52,126 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 00:24:52,131 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 00:24:52,132 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 00:24:52,132 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 00:24:52,132 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 00:24:52,696 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 00:24:52,696 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 00:24:52,696 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 00:24:52,696 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 00:24:52,696 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 00:30:10,066  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 00:30:12,474  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 00:30:17,248  INFO [main] BaseTest:91 - Browser is closed
+2022-08-30 00:32:20,993  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 00:32:23,062  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 00:32:24,253  INFO [main] BaseTest:91 - Browser is closed
+2022-08-30 00:33:35,892  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 00:33:37,900  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 00:33:39,022  INFO [main] BaseTest:91 - Browser is closed
+2022-08-30 00:34:35,406  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 00:34:37,317  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 00:37:38,797  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 00:37:41,479  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 00:39:03,991  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 00:39:05,793  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 00:39:06,840  INFO [main] BaseTest:91 - Browser is closed
+2022-08-30 00:43:42,040  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 00:43:44,194  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 00:44:16,824  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 00:44:17,448  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 00:45:56,497  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 00:45:58,436  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 00:46:03,350  INFO [main] BaseTest:91 - Browser is closed
+2022-08-30 00:46:14,116  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 00:46:14,636  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 00:46:21,196  INFO [main] BaseTest:91 - Browser is closed
+2022-08-30 00:46:50,038  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 00:46:52,148  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 00:46:55,203  INFO [main] BaseTest:91 - Browser is closed
+2022-08-30 00:47:10,221  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 00:47:12,948  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 00:47:16,618  INFO [main] BaseTest:91 - Browser is closed
+2022-08-30 00:47:27,926  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 00:47:29,985  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-30 00:47:32,434  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 00:47:33,056  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-30 00:47:40,618  INFO [TestNG-tests-1] BaseTest:91 - Browser is closed
+2022-08-30 00:47:41,141 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 00:47:41,144 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 00:47:41,144 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 00:47:41,149 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 00:47:41,149 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 00:47:41,678 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 00:47:41,678 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 00:47:41,678 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 00:47:41,678 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 00:47:41,678 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 00:56:55,135  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 00:56:56,810  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 00:57:01,991  INFO [main] BaseTest:91 - Browser is closed
+2022-08-30 01:33:53,882  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 01:33:56,555  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 01:35:52,730  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 01:35:54,298  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 01:37:01,631  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 01:37:03,786  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 01:38:33,207  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 01:38:35,413  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 01:39:23,368  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 01:39:25,788  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 01:39:26,684  INFO [main] BaseTest:91 - Browser is closed
+2022-08-30 01:43:08,170  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 01:43:08,629  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 01:43:12,306  INFO [main] BaseTest:91 - Browser is closed
+2022-08-30 01:43:23,256  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 01:43:25,456  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 01:43:26,467  INFO [main] BaseTest:91 - Browser is closed
+2022-08-30 01:44:55,414  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 01:44:58,021  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 01:44:58,908  INFO [main] BaseTest:91 - Browser is closed
+2022-08-30 01:46:10,439  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 01:46:11,148  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 01:46:33,610  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 01:46:35,405  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 01:47:16,986  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 01:47:19,009  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 01:47:23,366  INFO [main] BaseTest:91 - Browser is closed
+2022-08-30 01:58:06,136  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 01:58:08,502  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-30 01:58:10,647  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 01:58:13,225  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-30 01:58:15,652 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 01:58:15,661 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 01:58:15,661 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 01:58:15,661 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 01:58:15,661 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 01:58:16,044 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 01:58:16,044 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 01:58:16,049 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 01:58:16,049 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 01:58:16,049 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 02:00:10,868  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 02:00:13,135  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-30 02:00:15,400  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 02:00:17,604  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-30 02:00:21,656  INFO [TestNG-tests-1] BaseTest:91 - Browser is closed
+2022-08-30 02:00:22,135 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 02:00:22,140 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 02:00:22,144 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 02:00:22,144 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 02:00:22,144 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 02:00:22,721 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 02:00:22,721 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 02:00:22,722 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 02:00:22,723 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 02:00:22,723 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 02:09:24,681  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 02:09:27,208  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 02:09:31,436  INFO [main] BaseTest:91 - Browser is closed
+2022-08-30 02:09:47,884  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 02:09:49,923  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-30 02:09:52,056  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 02:09:53,945  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-30 02:09:58,921  INFO [TestNG-tests-1] BaseTest:91 - Browser is closed
+2022-08-30 02:09:59,355 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 02:09:59,356 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 02:09:59,356 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 02:09:59,356 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 02:09:59,364 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 02:09:59,756 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 02:09:59,756 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 02:09:59,756 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 02:09:59,756 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 02:09:59,756 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 02:50:21,087  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 02:50:21,596  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 02:50:28,848  INFO [main] BaseTest:91 - Browser is closed
+2022-08-30 02:53:04,581  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 02:53:07,208  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-30 02:53:08,958  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 02:53:11,180  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-30 02:53:15,781 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 02:53:15,784 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 02:53:15,784 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 02:53:15,784 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 02:53:15,784 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 02:53:16,364 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 02:53:16,365 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 02:53:16,365 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 02:53:16,365 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 02:53:16,365 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 02:54:43,947  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 02:54:46,460  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-30 02:54:48,636  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 02:54:50,764  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-30 02:54:52,523 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 02:54:52,524 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 02:54:52,527 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 02:54:52,527 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 02:54:52,527 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 02:54:52,919 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 02:54:52,919 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 02:54:52,919 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 02:54:52,922 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 02:54:52,922 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 02:55:18,512  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 02:55:20,472  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-30 02:55:22,664  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 02:55:25,035  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-30 02:55:26,875 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 02:55:26,875 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 02:55:26,883 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 02:55:26,885 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 02:55:26,885 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 02:55:27,345 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 02:55:27,345 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 02:55:27,345 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 02:55:27,345 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 02:55:27,345 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 02:56:26,353  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 02:56:27,001  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-30 02:56:32,041  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 02:56:33,874  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-30 02:56:35,459 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 02:56:35,460 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 02:56:35,463 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 02:56:35,465 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 02:56:35,465 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 02:56:35,937 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 02:56:35,937 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 02:56:35,937 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 02:56:35,937 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 02:56:35,937 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 02:57:19,950  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 02:57:22,322  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 02:57:26,321  INFO [main] BaseTest:91 - Browser is closed
+2022-08-30 02:57:58,410  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 02:58:00,739  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-30 02:58:02,221  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 02:58:04,720  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-30 02:58:12,565  INFO [TestNG-tests-1] BaseTest:91 - Browser is closed
+2022-08-30 02:58:12,908 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 02:58:12,910 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 02:58:12,913 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 02:58:12,915 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 02:58:12,915 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 02:58:13,506 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 02:58:13,507 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 02:58:13,508 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 02:58:13,508 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 02:58:13,510 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 03:24:17,077  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 03:24:18,427  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 03:24:19,903  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 03:24:20,259  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 03:24:24,061 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 03:24:24,063 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 03:24:24,064 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 03:24:24,065 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 03:24:24,065 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 03:24:24,299 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 03:24:24,299 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 03:24:24,299 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 03:24:24,300 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 03:24:24,300 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 03:24:41,111  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 03:24:42,427  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 03:24:43,841  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 03:24:45,184  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 03:24:52,474  INFO [main] BaseTest:91 - Browser is closed
+2022-08-30 03:24:52,742 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 03:24:52,742 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 03:24:52,742 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 03:24:52,742 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 03:24:52,742 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 03:24:52,932 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 03:24:52,932 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 03:24:52,932 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 03:24:52,932 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 03:24:52,932 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 03:25:27,318  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 03:25:28,606  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 03:25:29,963  INFO [main] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 03:25:31,435  INFO [main] BaseTest:53 - Opening the URL
+2022-08-30 03:25:35,596  INFO [main] BaseTest:91 - Browser is closed
+2022-08-30 03:25:35,920 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 03:25:35,920 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 03:25:35,920 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 03:25:35,920 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 03:25:35,920 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 03:25:36,121 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 03:25:36,121 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 03:25:36,121 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 03:25:36,121 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 03:25:36,121 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 03:26:41,566  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 03:26:42,911  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-30 03:26:44,276  INFO [TestNG-tests-1] BaseTest:67 - Connecting with Chrome Browser
+2022-08-30 03:26:45,732  INFO [TestNG-tests-1] BaseTest:53 - Opening the URL
+2022-08-30 03:26:48,468  INFO [TestNG-tests-1] BaseTest:91 - Browser is closed
+2022-08-30 03:26:48,751 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 03:26:48,751 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 03:26:48,751 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 03:26:48,751 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 03:26:48,751 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 03:26:48,944 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 03:26:48,945 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 03:26:48,945 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 03:26:48,945 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 03:26:48,945 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 03:35:17,214  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 03:35:18,712  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 03:35:20,215  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 03:35:21,584  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 03:35:23,225 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 03:35:23,227 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 03:35:23,230 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 03:35:23,234 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 03:35:23,235 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 03:35:23,588 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 03:35:23,588 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 03:35:23,589 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 03:35:23,589 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 03:35:23,589 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 03:35:37,650  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 03:35:38,912  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 03:35:40,302  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 03:35:41,695  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 03:35:48,488  INFO [TestNG-tests-1] BaseTest:92 - Browser is closed
+2022-08-30 03:35:48,798 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 03:35:48,798 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 03:35:48,798 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 03:35:48,798 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 03:35:48,798 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 03:35:48,986 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 03:35:48,986 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 03:35:48,986 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 03:35:48,986 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 03:35:48,986 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 03:39:40,362  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 03:39:40,766  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 03:39:45,512  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 03:39:45,923  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 03:39:48,931 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 03:39:48,933 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 03:39:48,934 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 03:39:48,936 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 03:39:48,936 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 03:39:49,161 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 03:39:49,161 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 03:39:49,162 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 03:39:49,162 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 03:39:49,162 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 03:40:01,975  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 03:40:02,377  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 03:40:07,373  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 03:40:08,798  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 03:40:11,581  INFO [TestNG-tests-1] BaseTest:92 - Browser is closed
+2022-08-30 03:40:11,897 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 03:40:11,897 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 03:40:11,897 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 03:40:11,897 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 03:40:11,897 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 03:40:12,093 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 03:40:12,093 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 03:40:12,093 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 03:40:12,094 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 03:40:12,094 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 03:41:22,264  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 03:41:23,535  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 03:41:24,923  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 03:41:26,405  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 03:41:29,255  INFO [TestNG-tests-1] BaseTest:92 - Browser is closed
+2022-08-30 03:41:29,612 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 03:41:29,613 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 03:41:29,614 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 03:41:29,615 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 03:41:29,616 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 03:41:29,814 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 03:41:29,814 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 03:41:29,815 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 03:41:29,815 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 03:41:29,815 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 03:42:41,990  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 03:42:43,274  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 03:42:44,645  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 03:42:46,090  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 03:42:52,928  INFO [TestNG-tests-1] BaseTest:92 - Browser is closed
+2022-08-30 03:42:53,238 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 03:42:53,238 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 03:42:53,238 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 03:42:53,253 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 03:42:53,253 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 03:42:53,425 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 03:42:53,425 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 03:42:53,425 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 03:42:53,425 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 03:42:53,425 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 03:43:45,145  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 03:43:45,499  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 03:43:50,511  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 03:43:51,967  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 03:43:54,576  INFO [TestNG-tests-1] BaseTest:92 - Browser is closed
+2022-08-30 03:43:54,914 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 03:43:54,915 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 03:43:54,916 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 03:43:54,917 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 03:43:54,918 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 03:43:55,110 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 03:43:55,110 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 03:43:55,110 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 03:43:55,110 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 03:43:55,110 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 03:44:49,009  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 03:44:49,409  INFO [main] BaseTest:54 - Opening the URL
+2022-08-30 03:44:53,859  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 03:44:55,271  INFO [main] BaseTest:54 - Opening the URL
+2022-08-30 03:45:01,954  INFO [main] BaseTest:92 - Browser is closed
+2022-08-30 03:45:02,295 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 03:45:02,296 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 03:45:02,298 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 03:45:02,299 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 03:45:02,299 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 03:45:02,501 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 03:45:02,501 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 03:45:02,502 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 03:45:02,502 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 03:45:02,502 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 03:45:15,229  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 03:45:15,585  INFO [main] BaseTest:54 - Opening the URL
+2022-08-30 03:45:20,183  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 03:45:21,547  INFO [main] BaseTest:54 - Opening the URL
+2022-08-30 03:45:22,783 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 03:45:22,784 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 03:45:22,786 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 03:45:22,789 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 03:45:22,789 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 03:45:22,998 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 03:45:22,998 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 03:45:22,998 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 03:45:22,998 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 03:45:22,998 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 03:45:44,786  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 03:45:46,041  INFO [main] BaseTest:54 - Opening the URL
+2022-08-30 03:45:47,434  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 03:45:48,730  INFO [main] BaseTest:54 - Opening the URL
+2022-08-30 03:45:51,519  INFO [main] BaseTest:92 - Browser is closed
+2022-08-30 03:45:51,808 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 03:45:51,808 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 03:45:51,808 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 03:45:51,808 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 03:45:51,808 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 03:45:51,997 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 03:45:51,997 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 03:45:51,997 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 03:45:51,997 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 03:45:51,997 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 03:48:36,932  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 03:48:37,277  INFO [main] BaseTest:54 - Opening the URL
+2022-08-30 03:48:42,448  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 03:48:43,711  INFO [main] BaseTest:54 - Opening the URL
+2022-08-30 04:00:04,615  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 04:00:05,764  INFO [main] BaseTest:54 - Opening the URL
+2022-08-30 04:00:07,118  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 04:00:08,271  INFO [main] BaseTest:54 - Opening the URL
+2022-08-30 04:00:10,943  INFO [main] BaseTest:92 - Browser is closed
+2022-08-30 04:00:11,218 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:00:11,218 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:00:11,218 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:00:11,226 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:00:11,226 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:00:11,383 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:00:11,383 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:00:11,383 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:00:11,383 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:00:11,383 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:10:00,761  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 04:10:01,145  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 04:10:05,930  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 04:10:07,185  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 04:10:08,423 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:10:08,425 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:10:08,426 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:10:08,427 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:10:08,428 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:10:08,640 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:10:08,641 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:10:08,641 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:10:08,642 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:10:08,642 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:10:22,153  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 04:10:23,203  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 04:10:24,632  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 04:10:25,817  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 04:10:28,054  INFO [TestNG-tests-1] BaseTest:92 - Browser is closed
+2022-08-30 04:10:28,409 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:10:28,425 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:10:28,425 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:10:28,425 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:10:28,425 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:10:28,604 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:10:28,604 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:10:28,604 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:10:28,604 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:10:28,604 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:15:02,724  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 04:15:04,132  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 04:15:05,548  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 04:15:06,825  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 04:15:13,145  INFO [TestNG-tests-1] BaseTest:92 - Browser is closed
+2022-08-30 04:15:13,384 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:15:13,384 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:15:13,384 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:15:13,384 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:15:13,384 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:15:13,569 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:15:13,570 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:15:13,570 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:15:13,571 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:15:13,571 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:17:05,001  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 04:17:06,321  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 04:17:07,786  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 04:17:08,992  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 04:17:10,283 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:17:10,285 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:17:10,287 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:17:10,289 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:17:10,289 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:17:10,499 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:17:10,500 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:17:10,501 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:17:10,501 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:17:10,501 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:17:25,985  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 04:17:27,209  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 04:17:28,612  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 04:17:29,935  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 04:17:31,104 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:17:31,105 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:17:31,106 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:17:31,107 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:17:31,108 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:17:31,622 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:17:31,623 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:17:31,623 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:17:31,623 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:17:31,624 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:17:46,729  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 04:17:47,404  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 04:17:53,065  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 04:17:54,865  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 04:17:58,661  INFO [TestNG-tests-1] BaseTest:92 - Browser is closed
+2022-08-30 04:17:59,216 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:17:59,216 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:17:59,228 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:17:59,228 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:17:59,228 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:17:59,601 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:17:59,616 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:17:59,616 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:17:59,616 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:17:59,616 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:18:12,706  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 04:18:14,902  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 04:18:17,442  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 04:18:19,881  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 04:18:23,751  INFO [TestNG-tests-1] BaseTest:92 - Browser is closed
+2022-08-30 04:18:24,307 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:18:24,316 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:18:24,319 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:18:24,321 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:18:24,321 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:18:24,849 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:18:24,850 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:18:24,851 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:18:24,851 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:18:24,851 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:19:05,834  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 04:19:08,632  INFO [main] BaseTest:54 - Opening the URL
+2022-08-30 04:19:12,016  INFO [main] BaseTest:92 - Browser is closed
+2022-08-30 04:27:19,350  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 04:27:21,339  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 04:27:23,665  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 04:27:25,912  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 04:27:29,246  INFO [TestNG-tests-1] BaseTest:92 - Browser is closed
+2022-08-30 04:27:29,750 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:27:29,750 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:27:29,750 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:27:29,750 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:27:29,757 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:27:30,073 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:27:30,073 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:27:30,073 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:27:30,073 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:27:30,073 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:27:49,632  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 04:27:51,858  INFO [main] BaseTest:54 - Opening the URL
+2022-08-30 04:27:55,556  INFO [main] BaseTest:92 - Browser is closed
+2022-08-30 04:30:34,304  INFO [TestNG-tests-1] BaseTest:70 - Connecting with Chrome Browser
+2022-08-30 04:30:36,395  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 04:30:38,411  INFO [TestNG-tests-1] BaseTest:70 - Connecting with Chrome Browser
+2022-08-30 04:30:40,296  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 04:30:43,612  INFO [TestNG-tests-1] BaseTest:94 - Browser is closed
+2022-08-30 04:30:44,024 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:30:44,024 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:30:44,024 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:30:44,033 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:30:44,033 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:30:44,337 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:30:44,337 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:30:44,337 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:30:44,341 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:30:44,341 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:33:46,527  INFO [TestNG-tests-1] BaseTest:70 - Connecting with Chrome Browser
+2022-08-30 04:33:48,414  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 04:33:50,846  INFO [TestNG-tests-1] BaseTest:70 - Connecting with Chrome Browser
+2022-08-30 04:33:53,030  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 04:33:57,145  INFO [TestNG-tests-1] BaseTest:94 - Browser is closed
+2022-08-30 04:33:57,592 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:33:57,595 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:33:57,597 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:33:57,598 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:33:57,599 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:33:57,958 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:33:57,958 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:33:57,959 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:33:57,959 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:33:57,959 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:34:15,745  INFO [TestNG-tests-1] BaseTest:70 - Connecting with Chrome Browser
+2022-08-30 04:34:17,516  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 04:34:19,746  INFO [TestNG-tests-1] BaseTest:70 - Connecting with Chrome Browser
+2022-08-30 04:34:21,520  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 04:34:24,385  INFO [TestNG-tests-1] BaseTest:94 - Browser is closed
+2022-08-30 04:34:24,822 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:34:24,822 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:34:24,829 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:34:24,830 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:34:24,830 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:34:25,212 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:34:25,212 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:34:25,212 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:34:25,212 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:34:25,212 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:37:57,535  INFO [TestNG-tests-1] BaseTest:58 - Connecting with Chrome Browser
+2022-08-30 04:37:59,622  INFO [TestNG-tests-1] BaseTest:42 - Opening the URL
+2022-08-30 04:38:01,486  INFO [TestNG-tests-1] BaseTest:58 - Connecting with Chrome Browser
+2022-08-30 04:38:03,702  INFO [TestNG-tests-1] BaseTest:42 - Opening the URL
+2022-08-30 04:38:05,290 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:38:05,293 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:38:05,297 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:38:05,299 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:38:05,299 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:38:05,661 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:38:05,662 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:38:05,662 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:38:05,663 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:38:05,663 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:38:20,141  INFO [TestNG-tests-1] BaseTest:58 - Connecting with Chrome Browser
+2022-08-30 04:38:22,320  INFO [TestNG-tests-1] BaseTest:42 - Opening the URL
+2022-08-30 04:38:24,480  INFO [TestNG-tests-1] BaseTest:58 - Connecting with Chrome Browser
+2022-08-30 04:38:24,869  INFO [TestNG-tests-1] BaseTest:42 - Opening the URL
+2022-08-30 04:38:25,592 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:38:25,592 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:38:25,604 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:38:25,606 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:38:25,606 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:38:26,014 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:38:26,014 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:38:26,016 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:38:26,017 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:38:26,017 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:38:53,437  INFO [TestNG-tests-1] BaseTest:58 - Connecting with Chrome Browser
+2022-08-30 04:38:53,891  INFO [TestNG-tests-1] BaseTest:42 - Opening the URL
+2022-08-30 04:38:55,605  INFO [TestNG-tests-1] BaseTest:58 - Connecting with Chrome Browser
+2022-08-30 04:38:55,935  INFO [TestNG-tests-1] BaseTest:42 - Opening the URL
+2022-08-30 04:38:56,529 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:38:56,531 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:38:56,533 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:38:56,535 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:38:56,536 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:38:56,789 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:38:56,789 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:38:56,789 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:38:56,790 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:38:56,790 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:39:27,051  INFO [TestNG-tests-1] BaseTest:58 - Connecting with Chrome Browser
+2022-08-30 04:39:27,493  INFO [TestNG-tests-1] BaseTest:42 - Opening the URL
+2022-08-30 04:39:29,117  INFO [TestNG-tests-1] BaseTest:58 - Connecting with Chrome Browser
+2022-08-30 04:39:29,393  INFO [TestNG-tests-1] BaseTest:42 - Opening the URL
+2022-08-30 04:39:30,005 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:39:30,006 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:39:30,008 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:39:30,009 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:39:30,009 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:39:30,277 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:39:30,277 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:39:30,277 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:39:30,278 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:39:30,278 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:39:42,235  INFO [TestNG-tests-1] BaseTest:58 - Connecting with Chrome Browser
+2022-08-30 04:39:42,656  INFO [TestNG-tests-1] BaseTest:42 - Opening the URL
+2022-08-30 04:39:44,512  INFO [TestNG-tests-1] BaseTest:58 - Connecting with Chrome Browser
+2022-08-30 04:39:44,829  INFO [TestNG-tests-1] BaseTest:42 - Opening the URL
+2022-08-30 04:39:45,455 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:39:45,459 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:39:45,461 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:39:45,463 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:39:45,463 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:39:45,742 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:39:45,742 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:39:45,743 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:39:45,743 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:39:45,744 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:39:57,513  INFO [TestNG-tests-1] BaseTest:58 - Connecting with Chrome Browser
+2022-08-30 04:39:57,870  INFO [TestNG-tests-1] BaseTest:42 - Opening the URL
+2022-08-30 04:39:59,346  INFO [TestNG-tests-1] BaseTest:58 - Connecting with Chrome Browser
+2022-08-30 04:39:59,647  INFO [TestNG-tests-1] BaseTest:42 - Opening the URL
+2022-08-30 04:40:00,274 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:40:00,274 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:40:00,276 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:40:00,277 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:40:00,278 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:40:00,521 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:40:00,521 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:40:00,521 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:40:00,521 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:40:00,522 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:40:12,462  INFO [TestNG-tests-1] BaseTest:58 - Connecting with Chrome Browser
+2022-08-30 04:40:12,843  INFO [TestNG-tests-1] BaseTest:42 - Opening the URL
+2022-08-30 04:40:14,514  INFO [TestNG-tests-1] BaseTest:58 - Connecting with Chrome Browser
+2022-08-30 04:40:14,846  INFO [TestNG-tests-1] BaseTest:42 - Opening the URL
+2022-08-30 04:40:15,537 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:40:15,538 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:40:15,539 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:40:15,540 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:40:15,541 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:40:15,847 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:40:15,849 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:40:15,849 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:40:15,849 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:40:15,850 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:40:27,820  INFO [TestNG-tests-1] BaseTest:58 - Connecting with Chrome Browser
+2022-08-30 04:40:28,159  INFO [TestNG-tests-1] BaseTest:42 - Opening the URL
+2022-08-30 04:40:29,811  INFO [TestNG-tests-1] BaseTest:58 - Connecting with Chrome Browser
+2022-08-30 04:40:30,124  INFO [TestNG-tests-1] BaseTest:42 - Opening the URL
+2022-08-30 04:40:30,725 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:40:30,726 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:40:30,728 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:40:30,729 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:40:30,729 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:40:30,996 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:40:30,996 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:40:30,996 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:40:30,996 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:40:30,997 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:41:25,412  INFO [TestNG-tests-1] BaseTest:58 - Connecting with Chrome Browser
+2022-08-30 04:41:25,897  INFO [TestNG-tests-1] BaseTest:42 - Opening the URL
+2022-08-30 04:41:27,666  INFO [TestNG-tests-1] BaseTest:58 - Connecting with Chrome Browser
+2022-08-30 04:41:27,977  INFO [TestNG-tests-1] BaseTest:42 - Opening the URL
+2022-08-30 04:41:28,587 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:41:28,588 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:41:28,590 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:41:28,592 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:41:28,592 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:41:28,883 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:41:28,883 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:41:28,884 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:41:28,884 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:41:28,885 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:41:56,482  INFO [main] BaseTest:58 - Connecting with Chrome Browser
+2022-08-30 04:41:57,008  INFO [main] BaseTest:42 - Opening the URL
+2022-08-30 04:41:57,707  INFO [main] BaseTest:82 - Browser is closed
+2022-08-30 04:42:06,764  INFO [main] BaseTest:58 - Connecting with Chrome Browser
+2022-08-30 04:42:07,200  INFO [main] BaseTest:42 - Opening the URL
+2022-08-30 04:42:08,081  INFO [main] BaseTest:82 - Browser is closed
+2022-08-30 04:42:23,913  INFO [main] BaseTest:58 - Connecting with Chrome Browser
+2022-08-30 04:42:24,285  INFO [main] BaseTest:42 - Opening the URL
+2022-08-30 04:42:46,309  INFO [main] BaseTest:58 - Connecting with Chrome Browser
+2022-08-30 04:42:46,806  INFO [main] BaseTest:42 - Opening the URL
+2022-08-30 04:43:27,035  INFO [main] BaseTest:58 - Connecting with Chrome Browser
+2022-08-30 04:43:27,523  INFO [main] BaseTest:42 - Opening the URL
+2022-08-30 04:43:56,413  INFO [main] BaseTest:58 - Connecting with Chrome Browser
+2022-08-30 04:43:56,750  INFO [main] BaseTest:42 - Opening the URL
+2022-08-30 04:45:26,026  INFO [TestNG-tests-1] BaseTest:58 - Connecting with Chrome Browser
+2022-08-30 04:45:26,494  INFO [TestNG-tests-1] BaseTest:42 - Opening the URL
+2022-08-30 04:45:28,338  INFO [TestNG-tests-1] BaseTest:58 - Connecting with Chrome Browser
+2022-08-30 04:45:28,622  INFO [TestNG-tests-1] BaseTest:42 - Opening the URL
+2022-08-30 04:45:29,212 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:45:29,213 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:45:29,215 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:45:29,216 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:45:29,216 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:45:29,494 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:45:29,494 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:45:29,495 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:45:29,495 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:45:29,495 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:47:07,328  INFO [TestNG-tests-1] BaseTest:58 - Connecting with Chrome Browser
+2022-08-30 04:47:07,841  INFO [TestNG-tests-1] BaseTest:42 - Opening the URL
+2022-08-30 04:47:08,501 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:47:08,504 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:47:08,506 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:47:08,507 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:47:08,507 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:47:08,804 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:47:08,805 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:47:08,805 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:47:08,805 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:47:08,805 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:47:52,264  INFO [TestNG-tests-1] BaseTest:58 - Connecting with Chrome Browser
+2022-08-30 04:47:52,716  INFO [TestNG-tests-1] BaseTest:42 - Opening the URL
+2022-08-30 04:47:53,432 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:47:53,433 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:47:53,435 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:47:53,436 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:47:53,436 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:47:53,648 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:47:53,649 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:47:53,650 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:47:53,651 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:47:53,651 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:49:49,663  INFO [TestNG-tests-1] BaseTest:60 - Connecting with Chrome Browser
+2022-08-30 04:49:50,128  INFO [TestNG-tests-1] BaseTest:46 - Opening the URL
+2022-08-30 04:50:03,063  INFO [TestNG-tests-1] BaseTest:84 - Browser is closed
+2022-08-30 04:50:03,448 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:50:03,452 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:50:03,452 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:50:03,452 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:50:03,457 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:50:03,875 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:50:03,875 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:50:03,876 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:50:03,877 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:50:03,877 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:50:25,179  INFO [TestNG-tests-1] BaseTest:60 - Connecting with Chrome Browser
+2022-08-30 04:50:25,637  INFO [TestNG-tests-1] BaseTest:46 - Opening the URL
+2022-08-30 04:50:37,570  INFO [TestNG-tests-1] BaseTest:84 - Browser is closed
+2022-08-30 04:50:37,891 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:50:37,895 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:50:37,897 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:50:37,901 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:50:37,902 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:50:38,386 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:50:38,399 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:50:38,399 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:50:38,399 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:50:38,399 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:52:20,224  INFO [TestNG-tests-1] BaseTest:60 - Connecting with Chrome Browser
+2022-08-30 04:52:20,718  INFO [TestNG-tests-1] BaseTest:46 - Opening the URL
+2022-08-30 04:52:38,665  INFO [TestNG-tests-1] BaseTest:84 - Browser is closed
+2022-08-30 04:52:38,973 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:52:38,979 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:52:38,985 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:52:38,988 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:52:38,990 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:52:39,504 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:52:39,513 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:52:39,514 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:52:39,514 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:52:39,515 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:57:05,791  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 04:57:06,298  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 04:57:17,541  INFO [TestNG-tests-1] BaseTest:92 - Browser is closed
+2022-08-30 04:57:17,850 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:57:17,850 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:57:17,864 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:57:17,866 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:57:17,869 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 04:57:18,271 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 04:57:18,281 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 04:57:18,282 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 04:57:18,283 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 04:57:18,283 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 05:35:54,738  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 05:35:55,184  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 05:36:07,810  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 05:36:08,168  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 05:36:20,435 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 05:36:20,437 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 05:36:20,440 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 05:36:20,443 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 05:36:20,444 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 05:36:20,798 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 05:36:20,798 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 05:36:20,799 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 05:36:20,799 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 05:36:20,800 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 05:37:00,007  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-08-30 05:37:00,401  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-08-30 05:37:12,435  INFO [TestNG-tests-1] BaseTest:92 - Browser is closed
+2022-08-30 05:37:12,730 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 05:37:12,739 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 05:37:12,741 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 05:37:12,743 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 05:37:12,743 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-08-30 05:37:13,125 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-08-30 05:37:13,127 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-08-30 05:37:13,127 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-08-30 05:37:13,128 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-08-30 05:37:13,128 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

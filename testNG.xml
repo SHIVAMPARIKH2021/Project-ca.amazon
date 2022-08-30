@@ -1,13 +1,16 @@
-<suite name = "Regression Testing" parallel="tests" >
+<suite name = "Regression Testing" parallel = "tests" >
 
 <listeners>
 		<listener class-name="ca.amazon.utilities.TestUtils" />
 </listeners>
 	
-      <test name = "DryRun" allow-return-values="true"> 
-           <classes> 
-                   <class name = "ca.amazon.DryRun"/>
-                   <class name = "ca.amazon.TestAmazonSignIn"/>
+      <test name = "SignInProcess" allow-return-values="true"> 
+     
+           <classes>
+                   <class name = "ca.amazon.TestAmazonSignInRedirect"/>
            </classes>
       </test>
+ 
 </suite>
+
+       

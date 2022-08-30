@@ -11,6 +11,15 @@
  </properties>
  
   <dependencies>
+  
+  <!-- https://mvnrepository.com/artifact/net.sourceforge.tess4j/tess4j -->
+<!--Dependency for Captcha Code-->
+<dependency>
+    <groupId>net.sourceforge.tess4j</groupId>
+    <artifactId>tess4j</artifactId>
+    <version>4.5.4</version>
+</dependency>
+
  
   <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 <dependency>

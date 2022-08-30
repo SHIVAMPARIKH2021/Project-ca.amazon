@@ -1,5 +1,6 @@
 package ca.amazon.pages;
 
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
@@ -7,10 +8,12 @@ import org.openqa.selenium.support.PageFactory;
 import ca.amazon.basepackage.BaseTest;
 
 public class AmazonSignIn extends BaseTest {
-    static Actions action;
+
+     Actions action;
     
     @FindBy(xpath = "//span[text()= 'Hello, Sign in']")
-    private static WebElement SignInDropdown;
+	private
+    static WebElement SignInDropdown;
     
     @FindBy(xpath = "//span[text()='Sign in']")
     private static WebElement SignInButton;
@@ -25,7 +28,7 @@ public class AmazonSignIn extends BaseTest {
 		PageFactory.initElements(driver,this);
 	}
 	
-	public void SignIn() throws InterruptedException{
+	 public void SignIn() throws InterruptedException{
 		action = new Actions(driver);
 		action.moveToElement(SignInDropdown).build().perform();
 		SignInButton.click();
@@ -39,7 +42,7 @@ public class AmazonSignIn extends BaseTest {
 		EmailOrMobile.sendKeys(mobileloginid);
 	}
 	
-	public static AmazonSignInRedirect Continue() {
+	public AmazonSignInRedirect Continue() {
 		ContinueButton.click();
 		return new AmazonSignInRedirect();
 	}
