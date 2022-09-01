@@ -1,33 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-08-30T05:36:58 GMT-04:00" name="Regression Testing" finished-at="2022-08-30T05:37:12 GMT-04:00" duration-ms="14389">
+  <suite started-at="2022-09-01T08:26:11 GMT-04:00" name="Default suite" finished-at="2022-09-01T08:26:25 GMT-04:00" duration-ms="13312">
     <groups>
     </groups>
-    <test started-at="2022-08-30T05:36:58 GMT-04:00" name="SignInProcess" finished-at="2022-08-30T05:37:12 GMT-04:00" duration-ms="14389">
-      <class name="ca.amazon.TestAmazonSignInRedirect">
-        <test-method is-config="true" signature="StartAmazonSignInRedirctTest()[pri:0, instance:ca.amazon.TestAmazonSignInRedirect@4961f6af]" started-at="2022-08-30T05:36:58 GMT-04:00" name="StartAmazonSignInRedirctTest" finished-at="2022-08-30T05:37:11 GMT-04:00" duration-ms="13431" status="PASS">
+    <test started-at="2022-09-01T08:26:11 GMT-04:00" name="Default test" finished-at="2022-09-01T08:26:25 GMT-04:00" duration-ms="13312">
+      <class name="ca.amazon.TestHomePage">
+        <test-method is-config="true" signature="StartHomePageTest()[pri:0, instance:ca.amazon.TestHomePage@1e178745]" started-at="2022-09-01T08:26:11 GMT-04:00" name="StartHomePageTest" finished-at="2022-09-01T08:26:19 GMT-04:00" duration-ms="7952" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- StartAmazonSignInRedirctTest -->
-        <test-method signature="PasswordTest()[pri:4, instance:ca.amazon.TestAmazonSignInRedirect@4961f6af]" started-at="2022-08-30T05:37:11 GMT-04:00" name="PasswordTest" finished-at="2022-08-30T05:37:11 GMT-04:00" duration-ms="145" status="PASS">
+        </test-method> <!-- StartHomePageTest -->
+        <test-method signature="Search()[pri:0, instance:ca.amazon.TestHomePage@1e178745]" started-at="2022-09-01T08:26:19 GMT-04:00" name="Search" finished-at="2022-09-01T08:26:25 GMT-04:00" duration-ms="5116" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- PasswordTest -->
-        <test-method signature="RememberMeTest()[pri:5, instance:ca.amazon.TestAmazonSignInRedirect@4961f6af]" started-at="2022-08-30T05:37:11 GMT-04:00" name="RememberMeTest" finished-at="2022-08-30T05:37:11 GMT-04:00" duration-ms="172" status="PASS">
+        </test-method> <!-- Search -->
+        <test-method is-config="true" signature="EndHomePageTest()[pri:0, instance:ca.amazon.TestHomePage@1e178745]" started-at="2022-09-01T08:26:25 GMT-04:00" name="EndHomePageTest" finished-at="2022-09-01T08:26:25 GMT-04:00" duration-ms="138" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- RememberMeTest -->
-        <test-method signature="SignInTest()[pri:6, instance:ca.amazon.TestAmazonSignInRedirect@4961f6af]" started-at="2022-08-30T05:37:11 GMT-04:00" name="SignInTest" finished-at="2022-08-30T05:37:12 GMT-04:00" duration-ms="348" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- SignInTest -->
-        <test-method is-config="true" signature="EndSignInRedirectTest()[pri:0, instance:ca.amazon.TestAmazonSignInRedirect@4961f6af]" started-at="2022-08-30T05:37:12 GMT-04:00" name="EndSignInRedirectTest" finished-at="2022-08-30T05:37:12 GMT-04:00" duration-ms="200" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- EndSignInRedirectTest -->
-      </class> <!-- ca.amazon.TestAmazonSignInRedirect -->
-    </test> <!-- SignInProcess -->
-  </suite> <!-- Regression Testing -->
+        </test-method> <!-- EndHomePageTest -->
+      </class> <!-- ca.amazon.TestHomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

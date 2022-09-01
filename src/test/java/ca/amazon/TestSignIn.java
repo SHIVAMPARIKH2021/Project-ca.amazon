@@ -7,28 +7,28 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 import ca.amazon.basepackage.BaseTest;
-import ca.amazon.pages.AmazonSignIn;
+import ca.amazon.pages.SignIn;
 import net.sourceforge.tess4j.TesseractException;
 
 
-public class TestAmazonSignIn extends BaseTest {
-	AmazonSignIn as;
+public class TestSignIn extends BaseTest {
+	SignIn as;
 	
-	TestAmazonSignIn() {
+	TestSignIn() {
 		super();
 	}
 	
 	@BeforeTest
 	public void StartSignInTest() throws InterruptedException {
 		initiate();
-		as=new AmazonSignIn();
+		as=new SignIn();
 		}
 
 	
 	@Test(priority=1)
 	public void SigninButtonTest() throws InterruptedException, IOException, TesseractException {
 		
-		as.SignIn();
+		as.Signin();
 		String title = driver.getTitle().toString();
 		Assert.assertEquals(title, "Amazon Sign In");
 	}
@@ -45,7 +45,7 @@ public class TestAmazonSignIn extends BaseTest {
 	
 	@AfterTest
 	public void EndSignInTest() {
-		//quitbrowser();
+		quitbrowser();
 		
 	}
 

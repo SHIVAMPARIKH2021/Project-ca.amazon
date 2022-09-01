@@ -54,9 +54,8 @@ public class BaseTest {
 		log.info("Opening the URL");
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
-		  WebDriverWait wait = new WebDriverWait(driver,BaseTest.EXPLICIT_WAIT);
-		  wait.until(ExpectedConditions.visibilityOfElementLocated(By.
-		  xpath("//span[text()='Hello, Sign in']")));
+		WebDriverWait wait = new WebDriverWait(driver, BaseTest.EXPLICIT_WAIT);
+		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[text()='Hello, sign in']")));
 		 
 		
 		

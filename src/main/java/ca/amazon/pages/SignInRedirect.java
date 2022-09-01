@@ -6,7 +6,7 @@ import org.openqa.selenium.support.PageFactory;
 
 import ca.amazon.basepackage.BaseTest;
 
-public class AmazonSignInRedirect extends BaseTest {
+public class SignInRedirect extends BaseTest {
 	
 	
 	
@@ -19,7 +19,7 @@ public class AmazonSignInRedirect extends BaseTest {
 	@FindBy(xpath = "//input[@name='rememberMe'and@tabindex='4']")
 	private static WebElement RememberMe;
 	
-	public AmazonSignInRedirect(){
+	public SignInRedirect(){
 		PageFactory.initElements(driver,this);
 	}
 	

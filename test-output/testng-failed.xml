@@ -1,29 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite parallel="tests" name="Failed suite [Regression Testing]">
-  <listeners>
-    <listener class-name="ca.amazon.utilities.TestUtils"/>
-  </listeners>
-  <test thread-count="5" parallel="tests" name="SignInProcess(failed)">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="ca.amazon.TestAmazonSignIn">
+      <class name="ca.amazon.TestHomePage">
         <methods>
-          <include name="EmailTest"/>
-          <include name="EndSignInTest"/>
-          <include name="StartSignInTest"/>
-          <include name="SigninButtonTest"/>
-          <include name="ContinueTest"/>
+          <include name="EndHomePageTest"/>
+          <include name="Search"/>
+          <include name="StartHomePageTest"/>
         </methods>
-      </class> <!-- ca.amazon.TestAmazonSignIn -->
-      <class name="ca.amazon.TestAmazonSignInRedirect">
-        <methods>
-          <include name="RememberMeTest"/>
-          <include name="EndSignInRedirectTest"/>
-          <include name="StartAmazonSignInRedirctTest"/>
-          <include name="SignInTest"/>
-          <include name="PasswordTest"/>
-        </methods>
-      </class> <!-- ca.amazon.TestAmazonSignInRedirect -->
+      </class> <!-- ca.amazon.TestHomePage -->
     </classes>
-  </test> <!-- SignInProcess(failed) -->
-</suite> <!-- Failed suite [Regression Testing] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
