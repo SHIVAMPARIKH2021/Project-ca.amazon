@@ -20,7 +20,7 @@ public class TestSignInRedirect extends BaseTest {
 	}
 	
 	@BeforeTest
-	public void StartSignInTest() throws InterruptedException, IOException, TesseractException {
+	public void StartSignInRedirectTest() throws InterruptedException, IOException, TesseractException {
 	initiate();
 	si=new SignIn();
 	si.Signin();
@@ -28,17 +28,17 @@ public class TestSignInRedirect extends BaseTest {
     sr=si.Continue(); //'asr' is initialized
 	}
 	
-	@Test(priority=4)
+	@Test(priority=1)
 	public void PasswordTest() {
 		sr.Password(prop.getProperty("password"));
 	}
 	
-	@Test(priority=5)
+	@Test(priority=2)
 	public void RememberMeTest() {
         sr.RememberMe();
 	}
 	
-	@Test(priority=6)
+	@Test(priority=3)
 	public void SignInTest() {
 		sr.SignInAccount();
 	}

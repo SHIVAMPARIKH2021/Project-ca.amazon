@@ -1,5 +1,6 @@
 package ca.amazon.pages;
 
+//import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
@@ -10,8 +11,7 @@ public class SignIn extends BaseTest {
      Actions action;
     
     @FindBy(xpath = "//span[text()= 'Hello, sign in']")
-	private
-    static WebElement SignInDropdown;
+	private static WebElement SignInDropdown;
     
     @FindBy(xpath = "//span[text()='Sign in']")
     private static WebElement SignInButton;
@@ -27,8 +27,13 @@ public class SignIn extends BaseTest {
 	}
 	
 	 public void Signin() throws InterruptedException{
+			/*
+			 * JavascriptExecutor js = (JavascriptExecutor)driver;
+			 * js.executeScript("arguments[0].click();", SignInButton);
+			 */
 		action = new Actions(driver);
 		action.moveToElement(SignInDropdown).build().perform();
+		action.moveToElement(SignInButton).build().perform();
 		SignInButton.click();
 	}
 	

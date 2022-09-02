@@ -2,7 +2,9 @@ package ca.amazon;
 
 import java.io.IOException;
 import org.testng.Assert;
+import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
@@ -18,33 +20,36 @@ public class TestSignIn extends BaseTest {
 		super();
 	}
 	
-	@BeforeTest
+	@BeforeMethod
 	public void StartSignInTest() throws InterruptedException {
 		initiate();
+		Thread.sleep(1000);
 		as=new SignIn();
 		}
 
 	
-	@Test(priority=1)
+	@Test(priority=5)
 	public void SigninButtonTest() throws InterruptedException, IOException, TesseractException {
-		
 		as.Signin();
 		String title = driver.getTitle().toString();
 		Assert.assertEquals(title, "Amazon Sign In");
 	}
 	
-	@Test(priority=2)
+	@Test(priority=6)
 	public void EmailTest() throws InterruptedException {
+		as.Signin();
 		as.Email(prop.getProperty("username"));
 	}
 	
-	@Test(priority=3)
-	public void ContinueTest() {
+	@Test(priority=7)
+	public void ContinueTest() throws InterruptedException {
+		as.Signin();
+		as.Email(prop.getProperty("username"));
 		as.Continue();
 	}
 	
-	@AfterTest
-	public void EndSignInTest() {
+	@AfterMethod
+	void EndSignInTest() {
 		quitbrowser();
 		
 	}

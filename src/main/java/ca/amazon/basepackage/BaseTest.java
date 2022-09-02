@@ -30,7 +30,7 @@ public class BaseTest {
 	protected static WebDriver driver;
 	private static Logger log = Logger.getLogger(BaseTest.class);
 	protected static final int EXPLICIT_WAIT=500;
-	protected static final int IMPLICIT_WAIT=10000;
+	protected static final int IMPLICIT_WAIT=1000;
 	protected static Actions action;
 	
 	
@@ -52,6 +52,7 @@ public class BaseTest {
 	private static void get() {
 		driver.get(prop.getProperty("url"));
 		log.info("Opening the URL");
+		driver.navigate().refresh();
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
 		WebDriverWait wait = new WebDriverWait(driver, BaseTest.EXPLICIT_WAIT);
@@ -81,7 +82,7 @@ public class BaseTest {
 		}
 	}
 	public static void quitbrowser() {
-		if(driver.equals(null)) {
+		if(driver != null) {
 		driver.quit();
 		log.info("All the windows of this browser is closed");
 		}

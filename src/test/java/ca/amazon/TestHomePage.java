@@ -1,13 +1,15 @@
 package ca.amazon;
 
+import org.testng.Assert;
+import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
-
 import ca.amazon.basepackage.BaseTest;
 import ca.amazon.pages.HomePage;
 import ca.amazon.pages.SignIn;
 import ca.amazon.pages.SignInRedirect;
+import ca.amazon.utilities.BaseUtils;
 
 public class TestHomePage extends BaseTest {
 
@@ -31,13 +33,14 @@ public class TestHomePage extends BaseTest {
 		hp=sr.SignInAccount();
 	}
 
-	@Test
+	@Test(priority=4)
 	public void Search() {
 		hp.SearchItem("Gaming Laptops");
-		hp.SearchButton();
+		System.out.println(hp.SearchButton());
+		Assert.assertEquals(hp.SearchButton(), BaseUtils.PAGE_RESULT);
 	}
 
-	@AfterTest
+	@AfterMethod
 	public void EndHomePageTest() {
 		quitbrowser();
 	}

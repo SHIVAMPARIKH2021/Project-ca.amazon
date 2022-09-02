@@ -6,7 +6,7 @@ public enum BaseUtils {
 	Edge;
 	BaseUtils(){
 	}
-	
+	public static int PAGE_RESULT = 64;
 	
 	
 	}

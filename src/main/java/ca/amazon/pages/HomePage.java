@@ -2,7 +2,6 @@ package ca.amazon.pages;
 
 import java.util.ArrayList;
 import java.util.List;
-
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
@@ -35,8 +34,16 @@ public class HomePage extends BaseTest {
 	
 	public int SearchButton() {
 		searchbutton.click();
-		List<WebElement> imglist = searchresult;
-		System.out.println(item +"  :"+ imglist.size());
-		return imglist.size();
+		List<WebElement> imglist = new ArrayList<WebElement>();
+		imglist.addAll(searchresult);
+		List<WebElement> totalResults = new ArrayList<WebElement>();
+		for (int i=0;i<imglist.size();i++) {
+			if((imglist.get(i).getAttribute("data-image-index")!= null)) {
+			imglist.get(i).getAttribute("src");
+			totalResults.add(imglist.get(i));
+			}
+		}
+		
+		return totalResults.size();
 	}
 }

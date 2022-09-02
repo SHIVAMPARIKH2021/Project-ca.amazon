@@ -5,18 +5,14 @@
     <listener class-name="ca.amazon.utilities.TestUtils"/>
   </listeners>
   <test thread-count="5" parallel="tests" name="SignInProcess(failed)">
-    <groups>
-      <run>
-        <include name="login"/>
-      </run>
-    </groups>
     <classes>
-      <class name="ca.amazon.TestSignInRedirect">
+      <class name="ca.amazon.TestSignIn">
         <methods>
-          <include name="PasswordTest"/>
-          <include name="SignInTest"/>
+          <include name="StartSignInTest"/>
+          <include name="EmailTest"/>
+          <include name="EndSignInTest"/>
         </methods>
-      </class> <!-- ca.amazon.TestSignInRedirect -->
+      </class> <!-- ca.amazon.TestSignIn -->
     </classes>
   </test> <!-- SignInProcess(failed) -->
 </suite> <!-- Failed suite [Regression Testing] -->

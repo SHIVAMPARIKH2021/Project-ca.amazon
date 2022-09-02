@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
-  <test thread-count="5" name="Default test(failed)">
+<suite parallel="tests" name="Failed suite [Regression Testing]">
+  <listeners>
+    <listener class-name="ca.amazon.utilities.TestUtils"/>
+  </listeners>
+  <test thread-count="5" parallel="tests" name="SignInProcess(failed)">
     <classes>
-      <class name="ca.amazon.TestHomePage">
+      <class name="ca.amazon.TestSignIn">
         <methods>
-          <include name="EndHomePageTest"/>
-          <include name="Search"/>
-          <include name="StartHomePageTest"/>
+          <include name="StartSignInTest"/>
+          <include name="EmailTest"/>
+          <include name="EndSignInTest"/>
         </methods>
-      </class> <!-- ca.amazon.TestHomePage -->
+      </class> <!-- ca.amazon.TestSignIn -->
     </classes>
-  </test> <!-- Default test(failed) -->
-</suite> <!-- Failed suite [Default suite] -->
+  </test> <!-- SignInProcess(failed) -->
+</suite> <!-- Failed suite [Regression Testing] -->
