@@ -3,19 +3,16 @@ package ca.amazon;
 import java.io.IOException;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
-import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
-
 import ca.amazon.basepackage.BaseTest;
 import ca.amazon.pages.SignIn;
+import ca.amazon.pages.SignInRedirect;
 import net.sourceforge.tess4j.TesseractException;
 
 
 public class TestSignIn extends BaseTest {
 	SignIn as;
-	
 	TestSignIn() {
 		super();
 	}
@@ -28,24 +25,18 @@ public class TestSignIn extends BaseTest {
 		}
 
 	
-	@Test(priority=5)
+	@Test(priority=1)
 	public void SigninButtonTest() throws InterruptedException, IOException, TesseractException {
 		as.Signin();
-		String title = driver.getTitle().toString();
+		String title = driver.getTitle();
 		Assert.assertEquals(title, "Amazon Sign In");
 	}
 	
-	@Test(priority=6)
+	@Test(priority=2)
 	public void EmailTest() throws InterruptedException {
 		as.Signin();
 		as.Email(prop.getProperty("username"));
-	}
-	
-	@Test(priority=7)
-	public void ContinueTest() throws InterruptedException {
-		as.Signin();
-		as.Email(prop.getProperty("username"));
-		as.Continue();
+		Assert.assertEquals(as.Continue().getClass(), new SignInRedirect().getClass(), "Error: We cannot find an account with that e-mail address");
 	}
 	
 	@AfterMethod

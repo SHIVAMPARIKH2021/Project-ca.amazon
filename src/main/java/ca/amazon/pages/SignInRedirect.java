@@ -8,8 +8,6 @@ import ca.amazon.basepackage.BaseTest;
 
 public class SignInRedirect extends BaseTest {
 	
-	
-	
 	@FindBy(id = "ap_password")
 	private static WebElement Password;
 	
@@ -27,8 +25,9 @@ public class SignInRedirect extends BaseTest {
 		Password.sendKeys(password);
 	}
 	
-	public void RememberMe() {
+	public WebElement RememberMe() {
 		RememberMe.click();
+		return RememberMe;
 	}
 	
 	public HomePage SignInAccount() {

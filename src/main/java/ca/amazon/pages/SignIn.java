@@ -27,10 +27,6 @@ public class SignIn extends BaseTest {
 	}
 	
 	 public void Signin() throws InterruptedException{
-			/*
-			 * JavascriptExecutor js = (JavascriptExecutor)driver;
-			 * js.executeScript("arguments[0].click();", SignInButton);
-			 */
 		action = new Actions(driver);
 		action.moveToElement(SignInDropdown).build().perform();
 		action.moveToElement(SignInButton).build().perform();

@@ -3,13 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="ca.amazon.TestSignIn">
+      <class name="ca.amazon.TestSignInRedirect">
         <methods>
-          <include name="StartSignInTest"/>
-          <include name="EmailTest"/>
-          <include name="EndSignInTest"/>
+          <include name="StartSignInRedirectTest"/>
+          <include name="PasswordTest"/>
+          <include name="SignInTest"/>
+          <include name="EndSignInRedirectTest"/>
+          <include name="RememberMeTest"/>
         </methods>
-      </class> <!-- ca.amazon.TestSignIn -->
+      </class> <!-- ca.amazon.TestSignInRedirect -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

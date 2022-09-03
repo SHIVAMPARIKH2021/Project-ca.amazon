@@ -6,13 +6,15 @@
   </listeners>
   <test thread-count="5" parallel="tests" name="SignInProcess(failed)">
     <classes>
-      <class name="ca.amazon.TestSignIn">
+      <class name="ca.amazon.TestSignInRedirect">
         <methods>
-          <include name="StartSignInTest"/>
-          <include name="EmailTest"/>
-          <include name="EndSignInTest"/>
+          <include name="StartSignInRedirectTest"/>
+          <include name="PasswordTest"/>
+          <include name="SignInTest"/>
+          <include name="RememberMeTest"/>
+          <include name="EndSignInRedirectTest"/>
         </methods>
-      </class> <!-- ca.amazon.TestSignIn -->
+      </class> <!-- ca.amazon.TestSignInRedirect -->
     </classes>
   </test> <!-- SignInProcess(failed) -->
 </suite> <!-- Failed suite [Regression Testing] -->

@@ -2679,3 +2679,391 @@
 2022-09-02 19:45:38,180 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
 2022-09-02 19:45:38,181 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
 2022-09-02 19:45:38,182 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-09-03 02:15:00,686  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 02:15:01,123  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 02:15:09,404  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 02:15:09,932  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 02:15:13,407  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 02:16:15,390  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 02:16:17,211  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 02:16:24,702  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 02:16:26,537  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 02:16:29,026  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 02:48:14,201  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 02:48:14,859  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 02:48:19,690  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 02:48:20,458  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 02:48:38,063  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 02:48:39,574  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 02:48:40,312  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 02:48:45,727  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 02:48:47,223  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 02:48:47,926  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 02:48:52,823  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 02:48:54,456  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 02:48:55,051  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 02:49:01,657  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 02:49:03,252  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 02:49:03,833  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 02:49:10,995  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 02:49:11,453 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-09-03 02:49:11,453 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-09-03 02:49:11,453 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-09-03 02:49:11,463 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-09-03 02:49:11,464 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-09-03 02:49:12,002 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-09-03 02:49:12,002 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-09-03 02:49:12,002 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-09-03 02:49:12,002 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-09-03 02:49:12,002 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-09-03 02:51:19,465  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 02:51:20,127  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 02:51:25,558  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 02:51:26,171  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 02:51:31,261  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 02:51:32,738  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 02:51:33,242  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 02:51:39,464  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 02:51:40,854  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 02:51:41,372  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 02:51:48,063  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 02:51:49,771  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 02:51:50,466  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 02:51:56,866  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 02:51:58,476  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 02:51:59,130  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 02:52:08,301  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 02:52:09,456  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 02:52:10,194  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 02:52:18,240  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 02:52:19,744  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 02:52:20,287  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 02:52:26,297  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 02:52:27,427  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 02:52:29,468  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 02:52:35,777  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 02:52:36,921  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 02:52:37,666  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 02:52:44,220  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 02:52:45,718  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 02:52:46,372  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 02:52:51,821  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 02:52:52,323 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-09-03 02:52:52,326 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-09-03 02:52:52,330 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-09-03 02:52:52,331 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-09-03 02:52:52,332 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-09-03 02:52:52,785 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-09-03 02:52:52,785 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-09-03 02:52:52,785 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-09-03 02:52:52,785 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-09-03 02:52:52,785 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-09-03 02:55:59,613  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 02:56:00,102  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 02:56:08,850  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 02:56:10,215  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 02:56:10,741  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 02:56:17,241  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 02:56:18,310  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 02:56:18,750  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 02:56:24,458  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 02:58:12,231  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 02:58:12,663  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 02:58:20,233  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 02:58:21,643  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 02:58:22,134  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 02:58:27,779  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 02:58:29,203  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 02:58:29,665  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 02:58:35,023  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:00:15,424  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:00:15,859  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:00:23,775  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:00:25,211  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:00:25,642  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:00:30,848  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:00:32,268  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:00:32,692  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:00:37,641  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:01:25,416  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:01:25,924  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:01:33,373  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:01:34,796  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:01:35,341  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:02:09,266  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:02:09,748  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:02:17,919  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:02:19,384  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:02:19,864  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:04:39,169  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:04:39,625  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:04:48,234  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:04:49,672  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:04:50,165  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:04:56,027  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:04:57,641  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:05:00,039  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:09:38,355  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:09:38,956  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:09:46,492  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:09:47,897  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:09:48,428  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:09:54,764  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:09:56,307  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:09:57,003  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:10:03,897  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:17:43,545  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:17:44,025  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:17:52,467  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:17:53,988  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:17:55,766  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:18:00,919  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:18:02,429  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:18:04,444  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:18:11,721  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:20:03,409  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:20:04,108  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:21:13,629  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:21:14,067  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:21:22,524  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:24:24,101  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:24:24,785  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:24:33,703  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:26:00,409  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:26:01,070  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:26:09,548  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:33:55,344  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:33:57,131  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:34:03,243  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:34:18,382  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:34:20,073  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:34:28,152  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:34:43,498  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:34:45,319  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:34:50,952  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:40:12,235  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:40:14,363  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:40:22,059  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:40:23,563  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:40:25,223  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:40:29,853  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:40:31,037  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:40:32,827  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:41:02,850  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:41:05,119  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:41:12,566  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:41:14,134  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:41:16,156  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:41:21,507  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:41:22,969  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:41:24,410  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:41:30,165  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:46:34,301  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:46:35,848  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:46:45,402  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:46:46,923  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:46:48,808  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:46:54,460  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:46:55,842  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:46:57,711  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:47:03,194  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:48:37,919  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:48:39,481  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:48:47,568  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:52:01,237  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:52:02,945  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:52:11,635  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:53:29,992  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:53:31,750  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:53:39,919  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:55:24,746  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:55:26,629  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:55:35,428  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 03:57:13,869  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 03:57:15,783  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 03:57:23,228  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:02:19,449  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:02:21,150  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 04:02:30,153  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:02:59,269  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:03:01,219  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 04:03:09,529  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:05:16,822  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:05:18,340  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 04:05:22,753  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:07:16,090  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:07:18,588  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 04:07:26,606  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:07:28,123  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:07:28,494  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 04:07:34,957  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:07:36,229  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:07:38,103  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 04:07:43,487  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:11:13,668  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:11:15,551  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 04:11:25,580  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:12:22,909  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:12:23,252  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 04:12:31,833  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:12:47,536  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:12:49,437  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 04:12:56,602  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:12:57,775  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:12:59,767  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 04:13:05,634  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:13:06,790  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:13:09,576  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 04:13:14,973  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:14:56,565  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:14:58,184  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 04:15:04,672  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:15:37,413  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:15:40,175  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 04:15:45,563  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:39:34,735  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:39:36,130  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 04:39:41,497  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:39:43,111  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:39:45,574  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 04:39:51,079  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:40:27,546  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:40:29,191  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 04:40:48,397  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:41:10,416  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:41:11,987  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 04:41:26,546  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:41:28,159  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:41:30,178  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 04:41:34,797  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:41:36,306  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:41:38,269  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 04:41:43,769  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:41:45,096  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:41:45,654  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 04:41:53,283  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:41:54,562  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:41:56,606  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 04:42:05,563  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:42:06,808  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:42:08,799  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 04:42:14,241  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:42:15,768  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:42:17,274  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 04:42:23,138  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:42:23,374 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-09-03 04:42:23,376 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-09-03 04:42:23,378 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-09-03 04:42:23,379 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-09-03 04:42:23,380 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-09-03 04:42:23,696 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-09-03 04:42:23,697 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-09-03 04:42:23,698 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-09-03 04:42:23,699 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-09-03 04:42:23,700 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-09-03 04:43:06,848  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:43:08,700  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 04:43:16,794  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:43:34,474  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:43:36,258  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 04:43:55,690  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:43:57,253  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:43:59,249  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 04:44:04,037  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:44:05,552  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:44:06,338  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 04:44:13,378  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:44:14,861  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:44:16,675  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 04:44:24,413  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:44:25,579  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:44:27,472  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 04:44:34,249  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:44:35,533  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:44:37,235  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 04:44:42,312  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:44:43,594  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:44:45,841  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 04:44:51,509  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:44:51,763 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-09-03 04:44:51,774 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-09-03 04:44:51,775 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-09-03 04:44:51,776 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-09-03 04:44:51,776 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-09-03 04:44:52,038 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-09-03 04:44:52,038 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-09-03 04:44:52,039 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-09-03 04:44:52,039 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-09-03 04:44:52,040 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-09-03 04:50:35,598  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:50:37,413  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 04:50:56,261  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:50:57,744  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:50:59,835  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 04:51:04,704  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:51:06,202  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:51:08,622  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 04:51:13,834  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:51:15,331  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:51:17,276  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 04:51:20,835 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-09-03 04:51:20,839 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-09-03 04:51:20,843 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-09-03 04:51:20,844 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-09-03 04:51:20,846 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-09-03 04:51:21,108 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-09-03 04:51:21,108 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-09-03 04:51:21,109 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-09-03 04:51:21,109 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-09-03 04:51:21,109 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-09-03 04:52:06,168  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:52:07,857  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 04:52:13,537  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:52:15,022  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:52:16,849  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 04:52:22,351  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:52:23,872  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:52:25,521  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 04:52:31,537  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:53:40,264  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:53:42,112  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 04:53:50,766  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:53:58,876  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:54:00,697  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 04:54:22,671  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:54:25,046  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 04:54:32,950  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:54:34,075  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:54:35,889  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 04:54:42,361  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:54:43,539  INFO [main] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:54:45,233  INFO [main] BaseTest:54 - Opening the URL
+2022-09-03 04:54:50,805  INFO [main] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:55:04,632  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:55:06,496  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 04:55:26,414  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:55:27,864  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:55:29,775  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 04:55:35,203  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:55:36,342  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:55:36,814  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 04:55:43,738  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:55:45,236  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:55:45,850  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 04:55:53,628  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:55:55,051  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:55:57,385  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 04:56:02,606  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:56:04,108  INFO [TestNG-tests-1] BaseTest:68 - Connecting with Chrome Browser
+2022-09-03 04:56:05,945  INFO [TestNG-tests-1] BaseTest:54 - Opening the URL
+2022-09-03 04:56:10,957  INFO [TestNG-tests-1] BaseTest:87 - All the windows of this browser is closed
+2022-09-03 04:56:11,185 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-09-03 04:56:11,186 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-09-03 04:56:11,188 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-09-03 04:56:11,190 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-09-03 04:56:11,191 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-09-03 04:56:11,436 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-09-03 04:56:11,437 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-09-03 04:56:11,437 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-09-03 04:56:11,438 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-09-03 04:56:11,438 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

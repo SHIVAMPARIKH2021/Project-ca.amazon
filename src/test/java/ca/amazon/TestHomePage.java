@@ -2,8 +2,7 @@ package ca.amazon;
 
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
-import org.testng.annotations.AfterTest;
-import org.testng.annotations.BeforeTest;
+import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import ca.amazon.basepackage.BaseTest;
 import ca.amazon.pages.HomePage;
@@ -21,7 +20,7 @@ public class TestHomePage extends BaseTest {
 		super();
 	}
 
-	@BeforeTest
+	@BeforeMethod
 	public void StartHomePageTest() throws InterruptedException {
 		initiate();
 		si=new SignIn();
@@ -33,7 +32,7 @@ public class TestHomePage extends BaseTest {
 		hp=sr.SignInAccount();
 	}
 
-	@Test(priority=4)
+	@Test(priority=1)
 	public void Search() {
 		hp.SearchItem("Gaming Laptops");
 		System.out.println(hp.SearchButton());
