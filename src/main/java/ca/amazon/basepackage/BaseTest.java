@@ -18,6 +18,10 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.io.FileHandler;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+
+import com.relevantcodes.extentreports.ExtentReports;
+import com.relevantcodes.extentreports.ExtentTest;
+
 import ca.amazon.utilities.BaseUtils;
 import net.sourceforge.tess4j.ITesseract;
 import net.sourceforge.tess4j.Tesseract;
@@ -32,6 +36,8 @@ public class BaseTest {
 	protected static final int EXPLICIT_WAIT=500;
 	protected static final int IMPLICIT_WAIT=1000;
 	protected static Actions action;
+	private static ExtentReports extentreport;
+	private static ExtentTest extenttest;
 	
 	
 
@@ -132,7 +138,10 @@ public class BaseTest {
 		  
 		}
 		
-		
-		
 	}
+
+
+
+
+
 }	
