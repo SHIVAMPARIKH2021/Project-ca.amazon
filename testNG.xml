@@ -1,7 +1,8 @@
-<suite name="Regression Testing" parallel="tests">
+<suite name="Regression Testing" >
 
 	<listeners>
-		<listener class-name="ca.amazon.utilities.TestUtils" />
+		<listener class-name="ca.amazon.utilities.TestUtils"/>
+		<listener class-name="ca.amazon.utilities.FailTestUtils"/>
 	</listeners>
 
 	<test name="SignInProcess" allow-return-values="true">

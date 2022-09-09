@@ -5,7 +5,6 @@ import java.io.IOException;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import ca.amazon.basepackage.BaseTest;
@@ -15,7 +14,7 @@ import ca.amazon.pages.SignInRedirect;
 import ca.amazon.utilities.BaseUtils;
 import ca.amazon.utilities.TestUtils;
 
-@Listeners(ca.amazon.utilities.TestUtils.class)
+
 public class TestHomePage extends BaseTest {
 
 	SignIn si;
