@@ -7,7 +7,7 @@ public enum BaseUtils {
 	FireFox,
 	Chrome, 
 	Edge;
-public static int PAGE_RESULT = 65;
+public static int PAGE_RESULT = 64;
 	
 	@FindBy(xpath = "//span[text()='Deliver to Shivam']") 
 	public static WebElement ADDRESS_BUTTON;

@@ -1,7 +1,9 @@
 package ca.amazon.pages;
 
 import java.util.ArrayList;
+import java.util.LinkedHashSet;
 import java.util.List;
+
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
@@ -34,16 +36,20 @@ public class HomePage extends BaseTest {
 	
 	public int SearchButton() {
 		searchbutton.click();
-		List<WebElement> imglist = new ArrayList<WebElement>();
-		imglist.addAll(searchresult);
-		List<WebElement> totalResults = new ArrayList<WebElement>();
-		for (int i=0;i<imglist.size();i++) {
-			if((imglist.get(i).getAttribute("data-image-index")!= null)) {
-			imglist.get(i).getAttribute("src");
-			totalResults.add(imglist.get(i));
+		List<WebElement> imglist = new ArrayList<WebElement>(searchresult);
+		LinkedHashSet<WebElement> set = new LinkedHashSet<WebElement>(imglist);
+		List<WebElement> totalResults = new ArrayList<WebElement>(set);
+	
+		List<WebElement> distincttotalResults = new ArrayList<WebElement>();
+		
+		for (int i=0;i<totalResults.size();i++) {
+			if((totalResults.get(i).getAttribute("data-image-index")!= null)) {
+			String s = totalResults.get(i).getAttribute("src").toString();
+			distincttotalResults.add(totalResults.get(i));
+			System.out.println(s);
 			}
 		}
 		
-		return totalResults.size();
+		return distincttotalResults.size();
 	}
 }

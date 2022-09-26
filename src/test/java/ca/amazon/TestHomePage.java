@@ -42,7 +42,7 @@ public class TestHomePage extends BaseTest {
 	@Test(priority=1)
 	public void Search() {
 		hp.SearchItem("Gaming Laptops");
-		System.out.println(hp.SearchButton());
+		hp.SearchButton();
 		Assert.assertEquals(hp.SearchButton(), BaseUtils.PAGE_RESULT);
 	}
 
