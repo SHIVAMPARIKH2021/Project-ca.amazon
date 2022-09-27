@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-26T19:00:25 GMT-04:00" name="Default suite" finished-at="2022-09-26T19:00:48 GMT-04:00" duration-ms="22924">
+  <suite started-at="2022-09-27T02:40:30 GMT-04:00" name="Default suite" finished-at="2022-09-27T02:40:55 GMT-04:00" duration-ms="24594">
     <groups>
     </groups>
-    <test started-at="2022-09-26T19:00:25 GMT-04:00" name="Default test" finished-at="2022-09-26T19:00:48 GMT-04:00" duration-ms="22924">
+    <test started-at="2022-09-27T02:40:30 GMT-04:00" name="Default test" finished-at="2022-09-27T02:40:55 GMT-04:00" duration-ms="24594">
       <class name="ca.amazon.TestHomePage">
-        <test-method is-config="true" signature="StartHomePageTest()[pri:0, instance:ca.amazon.TestHomePage@c0c2f8d]" started-at="2022-09-26T19:00:25 GMT-04:00" name="StartHomePageTest" finished-at="2022-09-26T19:00:35 GMT-04:00" duration-ms="9966" status="PASS">
+        <test-method is-config="true" signature="StartHomePageTest()[pri:0, instance:ca.amazon.TestHomePage@305b7c14]" started-at="2022-09-27T02:40:30 GMT-04:00" name="StartHomePageTest" finished-at="2022-09-27T02:40:41 GMT-04:00" duration-ms="10822" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartHomePageTest -->
-        <test-method signature="Search()[pri:1, instance:ca.amazon.TestHomePage@c0c2f8d]" started-at="2022-09-26T19:00:35 GMT-04:00" name="Search" finished-at="2022-09-26T19:00:48 GMT-04:00" duration-ms="12559" status="PASS">
+        <test-method signature="search_page2()[pri:2, instance:ca.amazon.TestHomePage@305b7c14]" started-at="2022-09-27T02:40:41 GMT-04:00" name="search_page2" finished-at="2022-09-27T02:40:55 GMT-04:00" duration-ms="13632" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Search -->
-        <test-method is-config="true" signature="EndHomePageTest()[pri:0, instance:ca.amazon.TestHomePage@c0c2f8d]" started-at="2022-09-26T19:00:48 GMT-04:00" name="EndHomePageTest" finished-at="2022-09-26T19:00:48 GMT-04:00" duration-ms="319" status="PASS">
+        </test-method> <!-- search_page2 -->
+        <test-method is-config="true" signature="EndHomePageTest()[pri:0, instance:ca.amazon.TestHomePage@305b7c14]" started-at="2022-09-27T02:40:55 GMT-04:00" name="EndHomePageTest" finished-at="2022-09-27T02:40:55 GMT-04:00" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EndHomePageTest -->

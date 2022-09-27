@@ -1,7 +1,6 @@
 package ca.amazon;
 
 import java.io.IOException;
-
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -40,14 +39,22 @@ public class TestHomePage extends BaseTest {
 	}
 
 	@Test(priority=1)
-	public void Search() {
-		hp.SearchItem("Gaming Laptops");
-		hp.SearchButton();
-		Assert.assertEquals(hp.SearchButton(), BaseUtils.PAGE_RESULT);
+	public void search() {
+		hp.searchItem("Gaming Laptops");
+		hp.searchButton();
+		Assert.assertEquals(hp.searchButton(), BaseUtils.PAGE_RESULT);
+	}
+	
+	@Test(priority=2)
+	public void search_page2() throws InterruptedException {
+		hp.searchItem("Gaming Laptops");
+		hp.searchButton();
+		hp.searchresult_page2();
+		hp.paginationAssertion();
 	}
 
 	@AfterMethod
 	public void EndHomePageTest() throws IOException {
-		quitbrowser();
+		//quitbrowser();
 	}
 }
