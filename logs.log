@@ -4766,3 +4766,6 @@
 2022-09-27 02:40:15,560  INFO [main] BaseTest:60 - Opening the URL
 2022-09-27 02:40:33,034  INFO [main] BaseTest:74 - Connecting with Chrome Browser
 2022-09-27 02:40:35,607  INFO [main] BaseTest:60 - Opening the URL
+2022-10-01 16:27:43,756  INFO [main] BaseTest:76 - Connecting with Chrome Browser
+2022-10-01 16:27:44,324  INFO [main] BaseTest:61 - Opening the URL
+2022-10-01 16:27:50,054  INFO [main] BaseTest:95 - All the windows of this browser is closed

@@ -23,6 +23,7 @@ import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
 
 import ca.amazon.utilities.BaseUtils;
+import io.github.bonigarcia.wdm.WebDriverManager;
 import net.sourceforge.tess4j.ITesseract;
 import net.sourceforge.tess4j.Tesseract;
 import net.sourceforge.tess4j.TesseractException;
@@ -69,13 +70,15 @@ public class BaseTest {
 	}
 	public static void initiate() {
 		if(prop.getProperty("browser").toString().equals(BaseUtils.Chrome.toString())) {
-			System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
+			WebDriverManager.chromedriver().setup();
+			//System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 			driver = new ChromeDriver();
 			log.info("Connecting with Chrome Browser");
 			get();
 		}
 		else if(prop.getProperty("browser").toString().equals(BaseUtils.Edge.toString())) {
-			System.setProperty("webdriver.edge.driver", "msedgedriver.exe");
+			WebDriverManager.edgedriver().setup();
+			//System.setProperty("webdriver.edge.driver", "msedgedriver.exe");
 			driver = new EdgeDriver();
 			log.info("Connecting with Edge Browser");
 			get();

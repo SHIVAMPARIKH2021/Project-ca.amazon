@@ -2,24 +2,24 @@
 <testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-27T02:40:30 GMT-04:00" name="Default suite" finished-at="2022-09-27T02:40:55 GMT-04:00" duration-ms="24594">
+  <suite started-at="2022-10-01T16:27:32 GMT-04:00" name="Default suite" finished-at="2022-10-01T16:27:50 GMT-04:00" duration-ms="17396">
     <groups>
     </groups>
-    <test started-at="2022-09-27T02:40:30 GMT-04:00" name="Default test" finished-at="2022-09-27T02:40:55 GMT-04:00" duration-ms="24594">
-      <class name="ca.amazon.TestHomePage">
-        <test-method is-config="true" signature="StartHomePageTest()[pri:0, instance:ca.amazon.TestHomePage@305b7c14]" started-at="2022-09-27T02:40:30 GMT-04:00" name="StartHomePageTest" finished-at="2022-09-27T02:40:41 GMT-04:00" duration-ms="10822" status="PASS">
+    <test started-at="2022-10-01T16:27:32 GMT-04:00" name="Default test" finished-at="2022-10-01T16:27:50 GMT-04:00" duration-ms="17396">
+      <class name="ca.amazon.TestSignIn">
+        <test-method is-config="true" signature="StartSignInTest()[pri:0, instance:ca.amazon.TestSignIn@4e50c791]" started-at="2022-10-01T16:27:32 GMT-04:00" name="StartSignInTest" finished-at="2022-10-01T16:27:48 GMT-04:00" duration-ms="15370" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- StartHomePageTest -->
-        <test-method signature="search_page2()[pri:2, instance:ca.amazon.TestHomePage@305b7c14]" started-at="2022-09-27T02:40:41 GMT-04:00" name="search_page2" finished-at="2022-09-27T02:40:55 GMT-04:00" duration-ms="13632" status="PASS">
+        </test-method> <!-- StartSignInTest -->
+        <test-method signature="SigninButtonTest()[pri:1, instance:ca.amazon.TestSignIn@4e50c791]" started-at="2022-10-01T16:27:48 GMT-04:00" name="SigninButtonTest" finished-at="2022-10-01T16:27:49 GMT-04:00" duration-ms="1651" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- search_page2 -->
-        <test-method is-config="true" signature="EndHomePageTest()[pri:0, instance:ca.amazon.TestHomePage@305b7c14]" started-at="2022-09-27T02:40:55 GMT-04:00" name="EndHomePageTest" finished-at="2022-09-27T02:40:55 GMT-04:00" duration-ms="3" status="PASS">
+        </test-method> <!-- SigninButtonTest -->
+        <test-method is-config="true" signature="EndSignInTest()[pri:0, instance:ca.amazon.TestSignIn@4e50c791]" started-at="2022-10-01T16:27:49 GMT-04:00" name="EndSignInTest" finished-at="2022-10-01T16:27:50 GMT-04:00" duration-ms="255" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- EndHomePageTest -->
-      </class> <!-- ca.amazon.TestHomePage -->
+        </test-method> <!-- EndSignInTest -->
+      </class> <!-- ca.amazon.TestSignIn -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
