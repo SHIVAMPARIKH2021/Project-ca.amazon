@@ -3,6 +3,8 @@ package ca.amazon.basepackage;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.util.Properties;
 import java.util.Set;
 
@@ -16,6 +18,8 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.io.FileHandler;
+import org.openqa.selenium.remote.DesiredCapabilities;
+import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -39,6 +43,8 @@ public class BaseTest {
 	protected static Actions action;
 	private static ExtentReports extentreport;
 	private static ExtentTest extenttest;
+	private static boolean flag;
+	private static DesiredCapabilities dc;
 	
 	
 
@@ -63,20 +69,28 @@ public class BaseTest {
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
 		WebDriverWait wait = new WebDriverWait(driver, BaseTest.EXPLICIT_WAIT);
-		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[text()='Hello, sign in']")));
-		 
-		
-		
+		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[text()='Hello, sign in']")));	
 	}
-	public static void initiate() {
-		if(prop.getProperty("browser").toString().equals(BaseUtils.Chrome.toString())) {
+	
+	public static void initiate() throws MalformedURLException {
+		if(prop.getProperty("browser").toString().equalsIgnoreCase(BaseUtils.Chrome.toString())) {
+				if(flag == false) {
+				//String browserName = prop.getProperty("browser");
+				dc = new DesiredCapabilities();
+				dc.setBrowserName("chrome");
+				driver = new RemoteWebDriver(new URL("http://127.0.0.1:56506/wd/hub"),dc);
+				log.info("Connecting with Chrome Browser through RemoteWebDriver");
+				get();
+			}
+			else {
 			WebDriverManager.chromedriver().setup();
 			//System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 			driver = new ChromeDriver();
 			log.info("Connecting with Chrome Browser");
 			get();
+			}
 		}
-		else if(prop.getProperty("browser").toString().equals(BaseUtils.Edge.toString())) {
+		else if(prop.getProperty("browserName").toString().equals(BaseUtils.Edge.toString())) {
 			WebDriverManager.edgedriver().setup();
 			//System.setProperty("webdriver.edge.driver", "msedgedriver.exe");
 			driver = new EdgeDriver();
@@ -142,9 +156,5 @@ public class BaseTest {
 		}
 		
 	}
-
-
-
-
 
 }	

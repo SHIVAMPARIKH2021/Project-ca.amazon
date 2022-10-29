@@ -10,8 +10,8 @@
       <class name="ca.amazon.TestHomePage">
         <methods>
           <include name="EndHomePageTest"/>
-          <include name="Search"/>
           <include name="StartHomePageTest"/>
+          <include name="search_page2"/>
         </methods>
       </class> <!-- ca.amazon.TestHomePage -->
     </classes>

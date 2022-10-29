@@ -1,6 +1,8 @@
 package ca.amazon;
 
 import java.io.IOException;
+import java.net.MalformedURLException;
+
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -18,7 +20,7 @@ public class TestSignIn extends BaseTest {
 	}
 	
 	@BeforeMethod
-	public void StartSignInTest() throws InterruptedException {
+	public void StartSignInTest() throws InterruptedException, MalformedURLException {
 		initiate();
 		Thread.sleep(1000);
 		as=new SignIn();

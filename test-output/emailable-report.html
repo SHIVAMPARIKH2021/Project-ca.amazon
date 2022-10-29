@@ -8,11 +8,45 @@
 <body>
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
-<tr><th colspan="8">Default suite</th></tr>
-<tr><td><a href="#t0">Default test</a></td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">17,396</td><td></td><td></td></tr>
+<tr><th colspan="8">Regression Testing</th></tr>
+<tr><td><a href="#t0">SignInProcess</a></td><td class="num">6</td><td class="num attn">1</td><td class="num">0</td><td class="num">0</td><td class="num">1,360,021</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Default suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Default test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">ca.amazon.TestSignIn</td><td><a href="#m0">SigninButtonTest</a></td><td rowspan="1">1664656068143</td><td rowspan="1">1651</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Regression Testing</th></tr></tbody><tbody id="t0"><tr><th colspan="4">SignInProcess &#8212; failed (configuration methods)</th></tr><tr class="failedeven"><td rowspan="1">ca.amazon.TestHomePage</td><td><a href="#m0">StartHomePageTest</a></td><td rowspan="1">1667079051600</td><td rowspan="1">300197</td></tr><tr><th colspan="4">SignInProcess &#8212; skipped (configuration methods)</th></tr><tr class="skippedeven"><td rowspan="1">ca.amazon.TestHomePage</td><td><a href="#m1">EndHomePageTest</a></td><td rowspan="1">1667079351823</td><td rowspan="1">0</td></tr><tr><th colspan="4">SignInProcess &#8212; skipped</th></tr><tr class="skippedeven"><td rowspan="1">ca.amazon.TestHomePage</td><td><a href="#m2">search_page2</a></td><td rowspan="1">1667079351819</td><td rowspan="1">0</td></tr><tr><th colspan="4">SignInProcess &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">ca.amazon.TestHomePage</td><td><a href="#m3">search</a></td><td rowspan="1">1667078810594</td><td rowspan="1">240999</td></tr><tr class="passedodd"><td rowspan="2">ca.amazon.TestSignIn</td><td><a href="#m4">EmailTest</a></td><td rowspan="1">1667078308499</td><td rowspan="1">31697</td></tr><tr class="passedodd"><td><a href="#m5">SigninButtonTest</a></td><td rowspan="1">1667078179093</td><td rowspan="1">24506</td></tr><tr class="passedeven"><td rowspan="3">ca.amazon.TestSignInRedirect</td><td><a href="#m6">PasswordTest</a></td><td rowspan="1">1667078449890</td><td rowspan="1">20002</td></tr><tr class="passedeven"><td><a href="#m7">RememberMeTest</a></td><td rowspan="1">1667078585010</td><td rowspan="1">3812</td></tr><tr class="passedeven"><td><a href="#m8">SignInTest</a></td><td rowspan="1">1667078703601</td><td rowspan="1">4895</td></tr></tbody>
 </table>
-<h2>Default test</h2><h3 id="m0">ca.amazon.TestSignIn#SigninButtonTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>SignInProcess</h2><h3 id="m0">ca.amazon.TestHomePage#StartHomePageTest</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.SessionNotCreatedException: Unable to create new remote session. desired capabilities = Capabilities {browserName: chrome}
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;LAPTOP-MVNUQ4K1&apos;, ip: &apos;192.168.48.1&apos;, os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.3.1&apos;
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:87)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:131)
+	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:144)
+	at ca.amazon.basepackage.BaseTest.initiate(BaseTest.java:81)
+	at ca.amazon.TestHomePage.StartHomePageTest(TestHomePage.java:32)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 31 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">ca.amazon.TestHomePage#EndHomePageTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">ca.amazon.TestHomePage#search_page2</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.SessionNotCreatedException: Unable to create new remote session. desired capabilities = Capabilities {browserName: chrome}
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;LAPTOP-MVNUQ4K1&apos;, ip: &apos;192.168.48.1&apos;, os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.3.1&apos;
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:87)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:131)
+	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:144)
+	at ca.amazon.basepackage.BaseTest.initiate(BaseTest.java:81)
+	at ca.amazon.TestHomePage.StartHomePageTest(TestHomePage.java:32)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 31 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m3">ca.amazon.TestHomePage#search</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m4">ca.amazon.TestSignIn#EmailTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m5">ca.amazon.TestSignIn#SigninButtonTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m6">ca.amazon.TestSignInRedirect#PasswordTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m7">ca.amazon.TestSignInRedirect#RememberMeTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m8">ca.amazon.TestSignInRedirect#SignInTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

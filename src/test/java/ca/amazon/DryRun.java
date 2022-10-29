@@ -1,6 +1,7 @@
 package ca.amazon;
 
 import java.io.IOException;
+import java.net.MalformedURLException;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -19,7 +20,7 @@ public class DryRun extends BaseTest {
 	
 
 @Test
-public void primarytest() {
+public void primarytest() throws MalformedURLException {
 	initiate();
 	
 	  String a = "Shivam"; String b = "Shiva"; if(a!=b){

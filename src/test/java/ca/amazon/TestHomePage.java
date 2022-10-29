@@ -1,6 +1,8 @@
 package ca.amazon;
 
 import java.io.IOException;
+import java.net.MalformedURLException;
+
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -26,7 +28,7 @@ public class TestHomePage extends BaseTest {
 	}
 
 	@BeforeMethod
-	public void StartHomePageTest() throws InterruptedException {
+	public void StartHomePageTest() throws InterruptedException, MalformedURLException {
 		initiate();
 		si=new SignIn();
 		si.Signin();
@@ -42,7 +44,7 @@ public class TestHomePage extends BaseTest {
 	public void search() {
 		hp.searchItem("Gaming Laptops");
 		hp.searchButton();
-		Assert.assertEquals(hp.searchButton(), BaseUtils.PAGE_RESULT);
+		Assert.assertEquals(hp.searchButton().size(), BaseUtils.PAGE_RESULT);
 	}
 	
 	@Test(priority=2)
