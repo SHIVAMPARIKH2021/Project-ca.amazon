@@ -9,44 +9,99 @@
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
 <tr><th colspan="8">Regression Testing</th></tr>
-<tr><td><a href="#t0">SignInProcess</a></td><td class="num">6</td><td class="num attn">1</td><td class="num">0</td><td class="num">0</td><td class="num">1,360,021</td><td></td><td></td></tr>
+<tr><td><a href="#t0">SignInProcess</a></td><td class="num">5</td><td class="num attn">2</td><td class="num attn">1</td><td class="num">0</td><td class="num">80,103</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Regression Testing</th></tr></tbody><tbody id="t0"><tr><th colspan="4">SignInProcess &#8212; failed (configuration methods)</th></tr><tr class="failedeven"><td rowspan="1">ca.amazon.TestHomePage</td><td><a href="#m0">StartHomePageTest</a></td><td rowspan="1">1667079051600</td><td rowspan="1">300197</td></tr><tr><th colspan="4">SignInProcess &#8212; skipped (configuration methods)</th></tr><tr class="skippedeven"><td rowspan="1">ca.amazon.TestHomePage</td><td><a href="#m1">EndHomePageTest</a></td><td rowspan="1">1667079351823</td><td rowspan="1">0</td></tr><tr><th colspan="4">SignInProcess &#8212; skipped</th></tr><tr class="skippedeven"><td rowspan="1">ca.amazon.TestHomePage</td><td><a href="#m2">search_page2</a></td><td rowspan="1">1667079351819</td><td rowspan="1">0</td></tr><tr><th colspan="4">SignInProcess &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">ca.amazon.TestHomePage</td><td><a href="#m3">search</a></td><td rowspan="1">1667078810594</td><td rowspan="1">240999</td></tr><tr class="passedodd"><td rowspan="2">ca.amazon.TestSignIn</td><td><a href="#m4">EmailTest</a></td><td rowspan="1">1667078308499</td><td rowspan="1">31697</td></tr><tr class="passedodd"><td><a href="#m5">SigninButtonTest</a></td><td rowspan="1">1667078179093</td><td rowspan="1">24506</td></tr><tr class="passedeven"><td rowspan="3">ca.amazon.TestSignInRedirect</td><td><a href="#m6">PasswordTest</a></td><td rowspan="1">1667078449890</td><td rowspan="1">20002</td></tr><tr class="passedeven"><td><a href="#m7">RememberMeTest</a></td><td rowspan="1">1667078585010</td><td rowspan="1">3812</td></tr><tr class="passedeven"><td><a href="#m8">SignInTest</a></td><td rowspan="1">1667078703601</td><td rowspan="1">4895</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Regression Testing</th></tr></tbody><tbody id="t0"><tr><th colspan="4">SignInProcess &#8212; failed (configuration methods)</th></tr><tr class="failedeven"><td rowspan="1">ca.amazon.TestSignInRedirect</td><td><a href="#m0">StartSignInRedirectTest</a></td><td rowspan="1">1667791588798</td><td rowspan="1">6209</td></tr><tr><th colspan="4">SignInProcess &#8212; skipped (configuration methods)</th></tr><tr class="skippedeven"><td rowspan="3">ca.amazon.TestSignInRedirect</td><td><a href="#m1">EndSignInRedirectTest</a></td><td rowspan="2">1667791595018</td><td rowspan="2">0</td></tr><tr class="skippedeven"><td><a href="#m2">EndSignInRedirectTest</a></td></tr><tr class="skippedeven"><td><a href="#m3">StartSignInRedirectTest</a></td><td rowspan="1">1667791595020</td><td rowspan="1">0</td></tr><tr><th colspan="4">SignInProcess &#8212; skipped</th></tr><tr class="skippedeven"><td rowspan="2">ca.amazon.TestSignInRedirect</td><td><a href="#m4">RememberMeTest</a></td><td rowspan="1">1667791595013</td><td rowspan="1">0</td></tr><tr class="skippedeven"><td><a href="#m5">SignInTest</a></td><td rowspan="1">1667791595021</td><td rowspan="1">1</td></tr><tr><th colspan="4">SignInProcess &#8212; retried</th></tr><tr class="retriedeven"><td rowspan="1">ca.amazon.TestHomePage</td><td><a href="#m6">search</a></td><td rowspan="1">1667791602508</td><td rowspan="1">8963</td></tr><tr><th colspan="4">SignInProcess &#8212; passed</th></tr><tr class="passedeven"><td rowspan="2">ca.amazon.TestHomePage</td><td><a href="#m7">search</a></td><td rowspan="1">1667791619027</td><td rowspan="1">8400</td></tr><tr class="passedeven"><td><a href="#m8">search_page2</a></td><td rowspan="1">1667791635445</td><td rowspan="1">7363</td></tr><tr class="passedodd"><td rowspan="2">ca.amazon.TestSignIn</td><td><a href="#m9">EmailTest</a></td><td rowspan="1">1667791577773</td><td rowspan="1">1448</td></tr><tr class="passedodd"><td><a href="#m10">SigninButtonTest</a></td><td rowspan="1">1667791570422</td><td rowspan="1">836</td></tr><tr class="passedeven"><td rowspan="1">ca.amazon.TestSignInRedirect</td><td><a href="#m11">PasswordTest</a></td><td rowspan="1">1667791586521</td><td rowspan="1">1965</td></tr></tbody>
 </table>
-<h2>SignInProcess</h2><h3 id="m0">ca.amazon.TestHomePage#StartHomePageTest</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.SessionNotCreatedException: Unable to create new remote session. desired capabilities = Capabilities {browserName: chrome}
+<h2>SignInProcess</h2><h3 id="m0">ca.amazon.TestSignInRedirect#StartSignInRedirectTest</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;#ap_email&quot;}
+  (Session info: MicrosoftEdge=107.0.1418.35)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
 System info: host: &apos;LAPTOP-MVNUQ4K1&apos;, ip: &apos;192.168.48.1&apos;, os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.3.1&apos;
-Driver info: driver.version: RemoteWebDriver
-	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:87)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.35, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:53072}, msedge: {msedgedriverVersion: 107.0.1418.35 (806ca5c53c4f..., userDataDir: C:\Users\shiva\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2317c72601962f16514170a6e5052dee
+*** Element info: {Using=id, value=ap_email}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
-	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:131)
-	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:144)
-	at ca.amazon.basepackage.BaseTest.initiate(BaseTest.java:81)
-	at ca.amazon.TestHomePage.StartHomePageTest(TestHomePage.java:32)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
+	at org.openqa.selenium.By$ById.findElement(By.java:188)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy12.sendKeys(Unknown Source)
+	at ca.amazon.pages.SignIn.Email(SignIn.java:37)
+	at ca.amazon.TestSignInRedirect.StartSignInRedirectTest(TestSignInRedirect.java:28)
 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-... Removed 31 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m1">ca.amazon.TestHomePage#EndHomePageTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m2">ca.amazon.TestHomePage#search_page2</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.SessionNotCreatedException: Unable to create new remote session. desired capabilities = Capabilities {browserName: chrome}
+... Removed 36 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">ca.amazon.TestSignInRedirect#EndSignInRedirectTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">ca.amazon.TestSignInRedirect#EndSignInRedirectTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m3">ca.amazon.TestSignInRedirect#StartSignInRedirectTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m4">ca.amazon.TestSignInRedirect#RememberMeTest</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;#ap_email&quot;}
+  (Session info: MicrosoftEdge=107.0.1418.35)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
 System info: host: &apos;LAPTOP-MVNUQ4K1&apos;, ip: &apos;192.168.48.1&apos;, os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.3.1&apos;
-Driver info: driver.version: RemoteWebDriver
-	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:87)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.35, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:53072}, msedge: {msedgedriverVersion: 107.0.1418.35 (806ca5c53c4f..., userDataDir: C:\Users\shiva\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2317c72601962f16514170a6e5052dee
+*** Element info: {Using=id, value=ap_email}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
-	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:131)
-	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:144)
-	at ca.amazon.basepackage.BaseTest.initiate(BaseTest.java:81)
-	at ca.amazon.TestHomePage.StartHomePageTest(TestHomePage.java:32)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
+	at org.openqa.selenium.By$ById.findElement(By.java:188)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy12.sendKeys(Unknown Source)
+	at ca.amazon.pages.SignIn.Email(SignIn.java:37)
+	at ca.amazon.TestSignInRedirect.StartSignInRedirectTest(TestSignInRedirect.java:28)
 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-... Removed 31 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m3">ca.amazon.TestHomePage#search</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m4">ca.amazon.TestSignIn#EmailTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m5">ca.amazon.TestSignIn#SigninButtonTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m6">ca.amazon.TestSignInRedirect#PasswordTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m7">ca.amazon.TestSignInRedirect#RememberMeTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m8">ca.amazon.TestSignInRedirect#SignInTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+... Removed 36 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m5">ca.amazon.TestSignInRedirect#SignInTest</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;#ap_email&quot;}
+  (Session info: MicrosoftEdge=107.0.1418.35)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;LAPTOP-MVNUQ4K1&apos;, ip: &apos;192.168.48.1&apos;, os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.3.1&apos;
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.35, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:53072}, msedge: {msedgedriverVersion: 107.0.1418.35 (806ca5c53c4f..., userDataDir: C:\Users\shiva\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2317c72601962f16514170a6e5052dee
+*** Element info: {Using=id, value=ap_email}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
+	at org.openqa.selenium.By$ById.findElement(By.java:188)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy12.sendKeys(Unknown Source)
+	at ca.amazon.pages.SignIn.Email(SignIn.java:37)
+	at ca.amazon.TestSignInRedirect.StartSignInRedirectTest(TestSignInRedirect.java:28)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 36 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m6">ca.amazon.TestHomePage#search</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.AssertionError: expected [64] but found [69]
+	at ca.amazon.TestHomePage.search(TestHomePage.java:47)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 33 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m7">ca.amazon.TestHomePage#search</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m8">ca.amazon.TestHomePage#search_page2</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m9">ca.amazon.TestSignIn#EmailTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m10">ca.amazon.TestSignIn#SigninButtonTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m11">ca.amazon.TestSignInRedirect#PasswordTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

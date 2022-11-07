@@ -1,6 +1,5 @@
 package ca.amazon.basepackage;
 
-import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.net.MalformedURLException;
@@ -8,18 +7,14 @@ import java.net.URL;
 import java.util.Properties;
 import java.util.Set;
 
-import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
-import org.openqa.selenium.OutputType;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.io.FileHandler;
 import org.openqa.selenium.remote.DesiredCapabilities;
-import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -28,9 +23,6 @@ import com.relevantcodes.extentreports.ExtentTest;
 
 import ca.amazon.utilities.BaseUtils;
 import io.github.bonigarcia.wdm.WebDriverManager;
-import net.sourceforge.tess4j.ITesseract;
-import net.sourceforge.tess4j.Tesseract;
-import net.sourceforge.tess4j.TesseractException;
 
 public class BaseTest {
 
@@ -73,36 +65,36 @@ public class BaseTest {
 	}
 	
 	public static void initiate() throws MalformedURLException {
-		if(prop.getProperty("browser").toString().equalsIgnoreCase(BaseUtils.Chrome.toString())) {
-				if(flag == false) {
-				//String browserName = prop.getProperty("browser");
-				dc = new DesiredCapabilities();
-				dc.setBrowserName("chrome");
-				driver = new RemoteWebDriver(new URL("http://127.0.0.1:56506/wd/hub"),dc);
-				log.info("Connecting with Chrome Browser through RemoteWebDriver");
-				get();
+		
+		switch(prop.getProperty("type")){
+		
+		case "local":
+			if(prop.getProperty("browser").equalsIgnoreCase(BaseUtils.Chrome.toString())) {
+				WebDriverManager.chromedriver().setup();
+				//System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
+				driver = new ChromeDriver();
+				log.info("Connecting with Chrome Browser");
+			}
+			else if(prop.getProperty("browser").equalsIgnoreCase(BaseUtils.Edge.toString())) {
+				WebDriverManager.edgedriver().setup();
+				//System.setProperty("webdriver.edge.driver", "msedgedriver.exe");
+				driver = new EdgeDriver();
+				log.info("Connecting with Edge Browser");
 			}
 			else {
-			WebDriverManager.chromedriver().setup();
-			//System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
-			driver = new ChromeDriver();
-			log.info("Connecting with Chrome Browser");
-			get();
+				WebDriverManager.firefoxdriver().setup();
+				//System.setProperty("webdriver.gecko.driver", "geckodriver.exe");
+				driver = new FirefoxDriver();
+				log.info("Connecting with FireFox Browser");
 			}
+			break;
+			
+		case "remote":
+			driver = RemoteDriverFactory.getRemoteWebDriver(prop.getProperty("browser"));
+			break;
 		}
-		else if(prop.getProperty("browserName").toString().equals(BaseUtils.Edge.toString())) {
-			WebDriverManager.edgedriver().setup();
-			//System.setProperty("webdriver.edge.driver", "msedgedriver.exe");
-			driver = new EdgeDriver();
-			log.info("Connecting with Edge Browser");
-			get();
-		}
-		else {
-			System.setProperty("webdriver.gecko.driver", "geckodriver.exe");
-			driver = new FirefoxDriver();
-			log.info("Connecting with FireFox Browser");
-			get();
-		}
+		
+		get();
 	}
 	public static void quitbrowser() {
 		if(driver != null) {
@@ -130,31 +122,8 @@ public class BaseTest {
 		return driver;
 	}
 	
-	public static void Blocker() throws IOException, TesseractException {
-		if (driver.getTitle().toString().equals("Amazon.ca")) {
-		  File src = driver.findElement(By.cssSelector("body > div > div.a-row.a-spacing-double-large > div.a-section > div > div > form > div.a-row.a-spacing-large > div > div > div.a-row.a-text-center > img")).getScreenshotAs(OutputType.FILE);
-		  //String path = System.getProperty("user.dir")+"/captcha.png";
-		  String path = "S://captcha.png";
-		  FileUtils.copyFile(src,new File("S://captcha.png"));
-		  FileHandler.copy(src, new File(path));
-		  ITesseract tessract = new Tesseract();
-		  String imgtxt = tessract.doOCR(new File(path));
-		  System.out.println(imgtxt);
-		  String finaltxt = imgtxt.split("")[1].replaceAll("[^a-zA-Z]","");
-		  System.out.println(finaltxt);
-		  driver.findElement(By.cssSelector("#captchacharacters")).sendKeys(finaltxt);
-		}
-		else
-		{
-		  log.error("Can not automate the Script");
-		  action = new Actions(driver);
-		  action.moveToElement(driver.findElement(By.cssSelector("#navbar-backup-backup > div > div.nav-bb-right > a:nth-child(1)"))).build().perform();
-		  driver.findElement(By.cssSelector("#navbar-backup-backup > div > div.nav-bb-right > a:nth-child(1)")).click();
-		  action.moveToElement(driver.findElement(By.xpath("//span[text()= 'Hello, Sign in']"))).pause(100).build().perform();
-		  driver.findElement(By.xpath("//span[text()='Sign in']")).click();
-		  
+	public static void Blocker() {
+	
 		}
 		
-	}
-
-}	
+	}	

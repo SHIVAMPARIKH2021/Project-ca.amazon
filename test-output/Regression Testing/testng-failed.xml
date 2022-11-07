@@ -9,11 +9,19 @@
     <classes>
       <class name="ca.amazon.TestHomePage">
         <methods>
+          <include name="search"/>
           <include name="EndHomePageTest"/>
           <include name="StartHomePageTest"/>
-          <include name="search_page2"/>
         </methods>
       </class> <!-- ca.amazon.TestHomePage -->
+      <class name="ca.amazon.TestSignInRedirect">
+        <methods>
+          <include name="StartSignInRedirectTest"/>
+          <include name="SignInTest"/>
+          <include name="RememberMeTest"/>
+          <include name="EndSignInRedirectTest"/>
+        </methods>
+      </class> <!-- ca.amazon.TestSignInRedirect -->
     </classes>
   </test> <!-- SignInProcess(failed) -->
 </suite> <!-- Failed suite [Regression Testing] -->

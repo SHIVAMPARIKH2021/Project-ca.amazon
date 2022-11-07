@@ -57,6 +57,6 @@ public class TestHomePage extends BaseTest {
 
 	@AfterMethod
 	public void EndHomePageTest() throws IOException {
-		//quitbrowser();
+		quitbrowser();
 	}
 }
