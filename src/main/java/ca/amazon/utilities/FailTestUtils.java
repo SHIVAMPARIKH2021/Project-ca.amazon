@@ -29,7 +29,7 @@ public class FailTestUtils extends BaseTest implements ITestListener{
 
 		String date = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
 		File srcfile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-		String path = "S://" + date + screenshotName + ".png"; // because of 'date' variable every time screenshot will have new name
+		String path = "S://" +"-"+ date +"-"+ screenshotName + ".png"; // because of 'date' variable every time screenshot will have new name
 		FileUtils.copyFile(srcfile, new File(path));
 		return path;
 	}

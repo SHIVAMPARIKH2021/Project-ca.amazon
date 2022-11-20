@@ -18,7 +18,6 @@ public final class RemoteDriverFactory {
 	private static WebDriver remotedriver;
 	private static URL url;
 	private static Logger log = Logger.getLogger(RemoteDriverFactory.class);
-	
 	private static WebDriver setRemoteWebDriver(String setBrowser) throws MalformedURLException {
 
 		dc = new DesiredCapabilities();

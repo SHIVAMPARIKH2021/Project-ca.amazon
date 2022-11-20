@@ -1,36 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results retried="1" ignored="0" total="8" passed="5" failed="0" skipped="2">
+<testng-results retried="1" ignored="0" total="8" passed="2" failed="0" skipped="5">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-11-06T22:26:03 GMT-05:00" name="Regression Testing" finished-at="2022-11-06T22:27:23 GMT-05:00" duration-ms="80103">
+  <suite started-at="2022-11-19T22:20:21 GMT-05:00" name="Regression Testing" finished-at="2022-11-19T22:33:48 GMT-05:00" duration-ms="806526">
     <groups>
+      <group name="MyGroup">
+        <method signature="TestSignIn.SigninButtonTest()[pri:1, instance:ca.amazon.TestSignIn@33c911a1]" name="SigninButtonTest" class="ca.amazon.TestSignIn"/>
+      </group> <!-- MyGroup -->
     </groups>
-    <test started-at="2022-11-06T22:26:03 GMT-05:00" name="SignInProcess" finished-at="2022-11-06T22:27:23 GMT-05:00" duration-ms="80103">
+    <test started-at="2022-11-19T22:20:21 GMT-05:00" name="SignInProcess" finished-at="2022-11-19T22:33:48 GMT-05:00" duration-ms="806526">
       <class name="ca.amazon.TestHomePage">
-        <test-method is-config="true" signature="StartHomePageTest()[pri:0, instance:ca.amazon.TestHomePage@5f8edcc5]" started-at="2022-11-06T22:26:35 GMT-05:00" name="StartHomePageTest" finished-at="2022-11-06T22:26:42 GMT-05:00" duration-ms="7481" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- StartHomePageTest -->
-        <test-method retried="true" signature="search()[pri:1, instance:ca.amazon.TestHomePage@5f8edcc5]" started-at="2022-11-06T22:26:42 GMT-05:00" name="search" finished-at="2022-11-06T22:26:51 GMT-05:00" duration-ms="8963" status="SKIP">
-          <exception class="java.lang.AssertionError">
+        <test-method is-config="true" signature="StartHomePageTest()[pri:0, instance:ca.amazon.TestHomePage@5f8edcc5]" started-at="2022-11-19T22:28:38 GMT-05:00" name="StartHomePageTest" finished-at="2022-11-19T22:33:48 GMT-05:00" duration-ms="310014" status="FAIL">
+          <exception class="org.openqa.selenium.SessionNotCreatedException">
             <message>
-              <![CDATA[expected [64] but found [69]]]>
+              <![CDATA[Unable to create new remote session. desired capabilities = Capabilities {browserName: chrome}
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-MVNUQ4K1', ip: '192.168.48.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3.1'
+Driver info: driver.version: RemoteWebDriver]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [64] but found [69]
-at org.testng.Assert.fail(Assert.java:110)
-at org.testng.Assert.failNotEquals(Assert.java:1413)
-at org.testng.Assert.assertEqualsImpl(Assert.java:149)
-at org.testng.Assert.assertEquals(Assert.java:131)
-at org.testng.Assert.assertEquals(Assert.java:1240)
-at org.testng.Assert.assertEquals(Assert.java:1274)
-at ca.amazon.TestHomePage.search(TestHomePage.java:47)
+              <![CDATA[org.openqa.selenium.SessionNotCreatedException: Unable to create new remote session. desired capabilities = Capabilities {browserName: chrome}
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-MVNUQ4K1', ip: '192.168.48.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3.1'
+Driver info: driver.version: RemoteWebDriver
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:87)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:144)
+at ca.amazon.basepackage.RemoteDriverFactory.setRemoteWebDriver(RemoteDriverFactory.java:39)
+at ca.amazon.basepackage.RemoteDriverFactory.getRemoteWebDriver(RemoteDriverFactory.java:45)
+at ca.amazon.basepackage.BaseTest.initiate(BaseTest.java:93)
+at ca.amazon.TestHomePage.StartHomePageTest(TestHomePage.java:32)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
 at java.base/java.lang.reflect.Method.invoke(Method.java:568)
 at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:816)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:590)
 at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
 at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
 at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
@@ -55,74 +67,168 @@ at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 ]]>
             </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- search -->
-        <test-method is-config="true" signature="EndHomePageTest()[pri:0, instance:ca.amazon.TestHomePage@5f8edcc5]" started-at="2022-11-06T22:26:51 GMT-05:00" name="EndHomePageTest" finished-at="2022-11-06T22:26:51 GMT-05:00" duration-ms="334" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- EndHomePageTest -->
-        <test-method is-config="true" signature="StartHomePageTest()[pri:0, instance:ca.amazon.TestHomePage@5f8edcc5]" started-at="2022-11-06T22:26:51 GMT-05:00" name="StartHomePageTest" finished-at="2022-11-06T22:26:59 GMT-05:00" duration-ms="7221" status="PASS">
+          </exception> <!-- org.openqa.selenium.SessionNotCreatedException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartHomePageTest -->
-        <test-method signature="search()[pri:1, instance:ca.amazon.TestHomePage@5f8edcc5]" started-at="2022-11-06T22:26:59 GMT-05:00" name="search" finished-at="2022-11-06T22:27:07 GMT-05:00" duration-ms="8400" status="PASS">
+        <test-method signature="search()[pri:1, instance:ca.amazon.TestHomePage@5f8edcc5]" started-at="2022-11-19T22:33:48 GMT-05:00" name="search" finished-at="2022-11-19T22:33:48 GMT-05:00" duration-ms="0" status="SKIP">
+          <exception class="org.openqa.selenium.SessionNotCreatedException">
+            <message>
+              <![CDATA[Unable to create new remote session. desired capabilities = Capabilities {browserName: chrome}
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-MVNUQ4K1', ip: '192.168.48.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3.1'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.SessionNotCreatedException: Unable to create new remote session. desired capabilities = Capabilities {browserName: chrome}
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-MVNUQ4K1', ip: '192.168.48.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3.1'
+Driver info: driver.version: RemoteWebDriver
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:87)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:144)
+at ca.amazon.basepackage.RemoteDriverFactory.setRemoteWebDriver(RemoteDriverFactory.java:39)
+at ca.amazon.basepackage.RemoteDriverFactory.getRemoteWebDriver(RemoteDriverFactory.java:45)
+at ca.amazon.basepackage.BaseTest.initiate(BaseTest.java:93)
+at ca.amazon.TestHomePage.StartHomePageTest(TestHomePage.java:32)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:816)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:590)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.SessionNotCreatedException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- search -->
-        <test-method is-config="true" signature="EndHomePageTest()[pri:0, instance:ca.amazon.TestHomePage@5f8edcc5]" started-at="2022-11-06T22:27:07 GMT-05:00" name="EndHomePageTest" finished-at="2022-11-06T22:27:07 GMT-05:00" duration-ms="321" status="PASS">
+        <test-method is-config="true" signature="EndHomePageTest()[pri:0, instance:ca.amazon.TestHomePage@5f8edcc5]" started-at="2022-11-19T22:33:48 GMT-05:00" name="EndHomePageTest" finished-at="2022-11-19T22:33:48 GMT-05:00" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EndHomePageTest -->
-        <test-method is-config="true" signature="StartHomePageTest()[pri:0, instance:ca.amazon.TestHomePage@5f8edcc5]" started-at="2022-11-06T22:27:07 GMT-05:00" name="StartHomePageTest" finished-at="2022-11-06T22:27:15 GMT-05:00" duration-ms="7694" status="PASS">
+        <test-method is-config="true" signature="StartHomePageTest()[pri:0, instance:ca.amazon.TestHomePage@5f8edcc5]" started-at="2022-11-19T22:33:48 GMT-05:00" name="StartHomePageTest" finished-at="2022-11-19T22:33:48 GMT-05:00" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartHomePageTest -->
-        <test-method signature="search_page2()[pri:2, instance:ca.amazon.TestHomePage@5f8edcc5]" started-at="2022-11-06T22:27:15 GMT-05:00" name="search_page2" finished-at="2022-11-06T22:27:22 GMT-05:00" duration-ms="7363" status="PASS">
+        <test-method signature="search_page2()[pri:2, instance:ca.amazon.TestHomePage@5f8edcc5]" started-at="2022-11-19T22:33:48 GMT-05:00" name="search_page2" finished-at="2022-11-19T22:33:48 GMT-05:00" duration-ms="0" status="SKIP">
+          <exception class="org.openqa.selenium.SessionNotCreatedException">
+            <message>
+              <![CDATA[Unable to create new remote session. desired capabilities = Capabilities {browserName: chrome}
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-MVNUQ4K1', ip: '192.168.48.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3.1'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.SessionNotCreatedException: Unable to create new remote session. desired capabilities = Capabilities {browserName: chrome}
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-MVNUQ4K1', ip: '192.168.48.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3.1'
+Driver info: driver.version: RemoteWebDriver
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:87)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:144)
+at ca.amazon.basepackage.RemoteDriverFactory.setRemoteWebDriver(RemoteDriverFactory.java:39)
+at ca.amazon.basepackage.RemoteDriverFactory.getRemoteWebDriver(RemoteDriverFactory.java:45)
+at ca.amazon.basepackage.BaseTest.initiate(BaseTest.java:93)
+at ca.amazon.TestHomePage.StartHomePageTest(TestHomePage.java:32)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:816)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:590)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.SessionNotCreatedException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- search_page2 -->
-        <test-method is-config="true" signature="EndHomePageTest()[pri:0, instance:ca.amazon.TestHomePage@5f8edcc5]" started-at="2022-11-06T22:27:22 GMT-05:00" name="EndHomePageTest" finished-at="2022-11-06T22:27:23 GMT-05:00" duration-ms="350" status="PASS">
+        <test-method is-config="true" signature="EndHomePageTest()[pri:0, instance:ca.amazon.TestHomePage@5f8edcc5]" started-at="2022-11-19T22:33:48 GMT-05:00" name="EndHomePageTest" finished-at="2022-11-19T22:33:48 GMT-05:00" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EndHomePageTest -->
       </class> <!-- ca.amazon.TestHomePage -->
       <class name="ca.amazon.TestSignInRedirect">
-        <test-method is-config="true" signature="StartSignInRedirectTest()[pri:0, instance:ca.amazon.TestSignInRedirect@6db9f5a4]" started-at="2022-11-06T22:26:19 GMT-05:00" name="StartSignInRedirectTest" finished-at="2022-11-06T22:26:26 GMT-05:00" duration-ms="7031" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- StartSignInRedirectTest -->
-        <test-method signature="PasswordTest()[pri:4, instance:ca.amazon.TestSignInRedirect@6db9f5a4]" started-at="2022-11-06T22:26:26 GMT-05:00" name="PasswordTest" finished-at="2022-11-06T22:26:28 GMT-05:00" duration-ms="1965" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- PasswordTest -->
-        <test-method is-config="true" signature="EndSignInRedirectTest()[pri:0, instance:ca.amazon.TestSignInRedirect@6db9f5a4]" started-at="2022-11-06T22:26:28 GMT-05:00" name="EndSignInRedirectTest" finished-at="2022-11-06T22:26:28 GMT-05:00" duration-ms="308" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- EndSignInRedirectTest -->
-        <test-method is-config="true" signature="StartSignInRedirectTest()[pri:0, instance:ca.amazon.TestSignInRedirect@6db9f5a4]" started-at="2022-11-06T22:26:28 GMT-05:00" name="StartSignInRedirectTest" finished-at="2022-11-06T22:26:35 GMT-05:00" duration-ms="6209" status="FAIL">
+        <test-method is-config="true" signature="StartSignInRedirectTest()[pri:0, instance:ca.amazon.TestSignInRedirect@6db9f5a4]" started-at="2022-11-19T22:26:53 GMT-05:00" name="StartSignInRedirectTest" finished-at="2022-11-19T22:28:38 GMT-05:00" duration-ms="104571" status="FAIL">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[no such element: Unable to locate element: {"method":"css selector","selector":"#ap_email"}
-  (Session info: MicrosoftEdge=107.0.1418.35)
+  (Session info: chrome=95.0.4638.69)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'LAPTOP-MVNUQ4K1', ip: '192.168.48.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3.1'
-Driver info: org.openqa.selenium.edge.EdgeDriver
-Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.35, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:53072}, msedge: {msedgedriverVersion: 107.0.1418.35 (806ca5c53c4f..., userDataDir: C:\Users\shiva\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 2317c72601962f16514170a6e5052dee
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: /tmp/.com.google.Chrome.fAFz2I}, goog:chromeOptions: {debuggerAddress: localhost:43273}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://0.0.0.0:4444/session/d..., se:cdpVersion: 95.0.4638.69, se:vnc: ws://0.0.0.0:4444/session/d..., se:vncEnabled: true, se:vncLocalAddress: ws://172.17.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: da1c5b4fbd53871e5b42b163d1113692
 *** Element info: {Using=id, value=ap_email}]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#ap_email"}
-  (Session info: MicrosoftEdge=107.0.1418.35)
+  (Session info: chrome=95.0.4638.69)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'LAPTOP-MVNUQ4K1', ip: '192.168.48.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3.1'
-Driver info: org.openqa.selenium.edge.EdgeDriver
-Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.35, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:53072}, msedge: {msedgedriverVersion: 107.0.1418.35 (806ca5c53c4f..., userDataDir: C:\Users\shiva\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 2317c72601962f16514170a6e5052dee
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: /tmp/.com.google.Chrome.fAFz2I}, goog:chromeOptions: {debuggerAddress: localhost:43273}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://0.0.0.0:4444/session/d..., se:cdpVersion: 95.0.4638.69, se:vnc: ws://0.0.0.0:4444/session/d..., se:vncEnabled: true, se:vncLocalAddress: ws://172.17.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: da1c5b4fbd53871e5b42b163d1113692
 *** Element info: {Using=id, value=ap_email}
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
@@ -133,7 +239,6 @@ at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpR
 at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
 at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
 at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
 at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
 at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
 at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
@@ -182,28 +287,28 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartSignInRedirectTest -->
-        <test-method signature="RememberMeTest()[pri:5, instance:ca.amazon.TestSignInRedirect@6db9f5a4]" started-at="2022-11-06T22:26:35 GMT-05:00" name="RememberMeTest" finished-at="2022-11-06T22:26:35 GMT-05:00" duration-ms="0" status="SKIP">
+        <test-method signature="PasswordTest()[pri:4, instance:ca.amazon.TestSignInRedirect@6db9f5a4]" started-at="2022-11-19T22:28:38 GMT-05:00" name="PasswordTest" finished-at="2022-11-19T22:28:38 GMT-05:00" duration-ms="1" status="SKIP">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[no such element: Unable to locate element: {"method":"css selector","selector":"#ap_email"}
-  (Session info: MicrosoftEdge=107.0.1418.35)
+  (Session info: chrome=95.0.4638.69)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'LAPTOP-MVNUQ4K1', ip: '192.168.48.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3.1'
-Driver info: org.openqa.selenium.edge.EdgeDriver
-Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.35, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:53072}, msedge: {msedgedriverVersion: 107.0.1418.35 (806ca5c53c4f..., userDataDir: C:\Users\shiva\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 2317c72601962f16514170a6e5052dee
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: /tmp/.com.google.Chrome.fAFz2I}, goog:chromeOptions: {debuggerAddress: localhost:43273}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://0.0.0.0:4444/session/d..., se:cdpVersion: 95.0.4638.69, se:vnc: ws://0.0.0.0:4444/session/d..., se:vncEnabled: true, se:vncLocalAddress: ws://172.17.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: da1c5b4fbd53871e5b42b163d1113692
 *** Element info: {Using=id, value=ap_email}]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#ap_email"}
-  (Session info: MicrosoftEdge=107.0.1418.35)
+  (Session info: chrome=95.0.4638.69)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'LAPTOP-MVNUQ4K1', ip: '192.168.48.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3.1'
-Driver info: org.openqa.selenium.edge.EdgeDriver
-Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.35, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:53072}, msedge: {msedgedriverVersion: 107.0.1418.35 (806ca5c53c4f..., userDataDir: C:\Users\shiva\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 2317c72601962f16514170a6e5052dee
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: /tmp/.com.google.Chrome.fAFz2I}, goog:chromeOptions: {debuggerAddress: localhost:43273}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://0.0.0.0:4444/session/d..., se:cdpVersion: 95.0.4638.69, se:vnc: ws://0.0.0.0:4444/session/d..., se:vncEnabled: true, se:vncLocalAddress: ws://172.17.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: da1c5b4fbd53871e5b42b163d1113692
 *** Element info: {Using=id, value=ap_email}
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
@@ -214,7 +319,94 @@ at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpR
 at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
 at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
 at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
+at org.openqa.selenium.By$ById.findElement(By.java:188)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy12.sendKeys(Unknown Source)
+at ca.amazon.pages.SignIn.Email(SignIn.java:37)
+at ca.amazon.TestSignInRedirect.StartSignInRedirectTest(TestSignInRedirect.java:28)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:816)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:590)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PasswordTest -->
+        <test-method is-config="true" signature="EndSignInRedirectTest()[pri:0, instance:ca.amazon.TestSignInRedirect@6db9f5a4]" started-at="2022-11-19T22:28:38 GMT-05:00" name="EndSignInRedirectTest" finished-at="2022-11-19T22:28:38 GMT-05:00" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndSignInRedirectTest -->
+        <test-method is-config="true" signature="StartSignInRedirectTest()[pri:0, instance:ca.amazon.TestSignInRedirect@6db9f5a4]" started-at="2022-11-19T22:28:38 GMT-05:00" name="StartSignInRedirectTest" finished-at="2022-11-19T22:28:38 GMT-05:00" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartSignInRedirectTest -->
+        <test-method signature="RememberMeTest()[pri:5, instance:ca.amazon.TestSignInRedirect@6db9f5a4]" started-at="2022-11-19T22:28:38 GMT-05:00" name="RememberMeTest" finished-at="2022-11-19T22:28:38 GMT-05:00" duration-ms="1" status="SKIP">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"css selector","selector":"#ap_email"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-MVNUQ4K1', ip: '192.168.48.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: /tmp/.com.google.Chrome.fAFz2I}, goog:chromeOptions: {debuggerAddress: localhost:43273}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://0.0.0.0:4444/session/d..., se:cdpVersion: 95.0.4638.69, se:vnc: ws://0.0.0.0:4444/session/d..., se:vncEnabled: true, se:vncLocalAddress: ws://172.17.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: da1c5b4fbd53871e5b42b163d1113692
+*** Element info: {Using=id, value=ap_email}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#ap_email"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-MVNUQ4K1', ip: '192.168.48.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: /tmp/.com.google.Chrome.fAFz2I}, goog:chromeOptions: {debuggerAddress: localhost:43273}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://0.0.0.0:4444/session/d..., se:cdpVersion: 95.0.4638.69, se:vnc: ws://0.0.0.0:4444/session/d..., se:vncEnabled: true, se:vncLocalAddress: ws://172.17.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: da1c5b4fbd53871e5b42b163d1113692
+*** Element info: {Using=id, value=ap_email}
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
 at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
 at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
 at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
@@ -263,36 +455,36 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- RememberMeTest -->
-        <test-method is-config="true" signature="EndSignInRedirectTest()[pri:0, instance:ca.amazon.TestSignInRedirect@6db9f5a4]" started-at="2022-11-06T22:26:35 GMT-05:00" name="EndSignInRedirectTest" finished-at="2022-11-06T22:26:35 GMT-05:00" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="EndSignInRedirectTest()[pri:0, instance:ca.amazon.TestSignInRedirect@6db9f5a4]" started-at="2022-11-19T22:28:38 GMT-05:00" name="EndSignInRedirectTest" finished-at="2022-11-19T22:28:38 GMT-05:00" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EndSignInRedirectTest -->
-        <test-method is-config="true" signature="StartSignInRedirectTest()[pri:0, instance:ca.amazon.TestSignInRedirect@6db9f5a4]" started-at="2022-11-06T22:26:35 GMT-05:00" name="StartSignInRedirectTest" finished-at="2022-11-06T22:26:35 GMT-05:00" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="StartSignInRedirectTest()[pri:0, instance:ca.amazon.TestSignInRedirect@6db9f5a4]" started-at="2022-11-19T22:28:38 GMT-05:00" name="StartSignInRedirectTest" finished-at="2022-11-19T22:28:38 GMT-05:00" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartSignInRedirectTest -->
-        <test-method signature="SignInTest()[pri:6, instance:ca.amazon.TestSignInRedirect@6db9f5a4]" started-at="2022-11-06T22:26:35 GMT-05:00" name="SignInTest" finished-at="2022-11-06T22:26:35 GMT-05:00" duration-ms="1" status="SKIP">
+        <test-method signature="SignInTest()[pri:6, instance:ca.amazon.TestSignInRedirect@6db9f5a4]" started-at="2022-11-19T22:28:38 GMT-05:00" name="SignInTest" finished-at="2022-11-19T22:28:38 GMT-05:00" duration-ms="0" status="SKIP">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[no such element: Unable to locate element: {"method":"css selector","selector":"#ap_email"}
-  (Session info: MicrosoftEdge=107.0.1418.35)
+  (Session info: chrome=95.0.4638.69)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'LAPTOP-MVNUQ4K1', ip: '192.168.48.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3.1'
-Driver info: org.openqa.selenium.edge.EdgeDriver
-Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.35, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:53072}, msedge: {msedgedriverVersion: 107.0.1418.35 (806ca5c53c4f..., userDataDir: C:\Users\shiva\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 2317c72601962f16514170a6e5052dee
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: /tmp/.com.google.Chrome.fAFz2I}, goog:chromeOptions: {debuggerAddress: localhost:43273}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://0.0.0.0:4444/session/d..., se:cdpVersion: 95.0.4638.69, se:vnc: ws://0.0.0.0:4444/session/d..., se:vncEnabled: true, se:vncLocalAddress: ws://172.17.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: da1c5b4fbd53871e5b42b163d1113692
 *** Element info: {Using=id, value=ap_email}]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#ap_email"}
-  (Session info: MicrosoftEdge=107.0.1418.35)
+  (Session info: chrome=95.0.4638.69)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'LAPTOP-MVNUQ4K1', ip: '192.168.48.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3.1'
-Driver info: org.openqa.selenium.edge.EdgeDriver
-Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 107.0.1418.35, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:53072}, msedge: {msedgedriverVersion: 107.0.1418.35 (806ca5c53c4f..., userDataDir: C:\Users\shiva\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 2317c72601962f16514170a6e5052dee
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: /tmp/.com.google.Chrome.fAFz2I}, goog:chromeOptions: {debuggerAddress: localhost:43273}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://0.0.0.0:4444/session/d..., se:cdpVersion: 95.0.4638.69, se:vnc: ws://0.0.0.0:4444/session/d..., se:vncEnabled: true, se:vncLocalAddress: ws://172.17.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: da1c5b4fbd53871e5b42b163d1113692
 *** Element info: {Using=id, value=ap_email}
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
@@ -303,7 +495,6 @@ at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpR
 at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
 at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
 at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
 at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
 at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
 at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
@@ -352,33 +543,117 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SignInTest -->
-        <test-method is-config="true" signature="EndSignInRedirectTest()[pri:0, instance:ca.amazon.TestSignInRedirect@6db9f5a4]" started-at="2022-11-06T22:26:35 GMT-05:00" name="EndSignInRedirectTest" finished-at="2022-11-06T22:26:35 GMT-05:00" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="EndSignInRedirectTest()[pri:0, instance:ca.amazon.TestSignInRedirect@6db9f5a4]" started-at="2022-11-19T22:28:38 GMT-05:00" name="EndSignInRedirectTest" finished-at="2022-11-19T22:28:38 GMT-05:00" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EndSignInRedirectTest -->
       </class> <!-- ca.amazon.TestSignInRedirect -->
       <class name="ca.amazon.TestSignIn">
-        <test-method is-config="true" signature="StartSignInTest()[pri:0, instance:ca.amazon.TestSignIn@33c911a1]" started-at="2022-11-06T22:26:03 GMT-05:00" name="StartSignInTest" finished-at="2022-11-06T22:26:10 GMT-05:00" duration-ms="7316" status="PASS">
+        <test-method is-config="true" signature="StartSignInTest()[pri:0, instance:ca.amazon.TestSignIn@33c911a1]" started-at="2022-11-19T22:20:21 GMT-05:00" name="StartSignInTest" finished-at="2022-11-19T22:21:52 GMT-05:00" duration-ms="90990" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartSignInTest -->
-        <test-method signature="SigninButtonTest()[pri:1, instance:ca.amazon.TestSignIn@33c911a1]" started-at="2022-11-06T22:26:10 GMT-05:00" name="SigninButtonTest" finished-at="2022-11-06T22:26:11 GMT-05:00" duration-ms="836" status="PASS">
+        <test-method signature="SigninButtonTest()[pri:1, instance:ca.amazon.TestSignIn@33c911a1]" started-at="2022-11-19T22:21:52 GMT-05:00" name="SigninButtonTest" finished-at="2022-11-19T22:22:27 GMT-05:00" duration-ms="34452" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SigninButtonTest -->
-        <test-method is-config="true" signature="EndSignInTest()[pri:0, instance:ca.amazon.TestSignIn@33c911a1]" started-at="2022-11-06T22:26:11 GMT-05:00" name="EndSignInTest" finished-at="2022-11-06T22:26:11 GMT-05:00" duration-ms="251" status="PASS">
+        <test-method is-config="true" signature="EndSignInTest()[pri:0, instance:ca.amazon.TestSignIn@33c911a1]" started-at="2022-11-19T22:22:27 GMT-05:00" name="EndSignInTest" finished-at="2022-11-19T22:22:28 GMT-05:00" duration-ms="1151" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EndSignInTest -->
-        <test-method is-config="true" signature="StartSignInTest()[pri:0, instance:ca.amazon.TestSignIn@33c911a1]" started-at="2022-11-06T22:26:11 GMT-05:00" name="StartSignInTest" finished-at="2022-11-06T22:26:17 GMT-05:00" duration-ms="6258" status="PASS">
+        <test-method is-config="true" signature="StartSignInTest()[pri:0, instance:ca.amazon.TestSignIn@33c911a1]" started-at="2022-11-19T22:22:28 GMT-05:00" name="StartSignInTest" finished-at="2022-11-19T22:24:04 GMT-05:00" duration-ms="96302" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartSignInTest -->
-        <test-method signature="EmailTest()[pri:2, instance:ca.amazon.TestSignIn@33c911a1]" started-at="2022-11-06T22:26:17 GMT-05:00" name="EmailTest" finished-at="2022-11-06T22:26:19 GMT-05:00" duration-ms="1448" status="PASS">
+        <test-method retried="true" signature="EmailTest()[pri:2, instance:ca.amazon.TestSignIn@33c911a1]" started-at="2022-11-19T22:24:04 GMT-05:00" name="EmailTest" finished-at="2022-11-19T22:24:31 GMT-05:00" duration-ms="26344" status="SKIP">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"css selector","selector":"#ap_email"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-MVNUQ4K1', ip: '192.168.48.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: /tmp/.com.google.Chrome.49CtC4}, goog:chromeOptions: {debuggerAddress: localhost:36745}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://0.0.0.0:4444/session/f..., se:cdpVersion: 95.0.4638.69, se:vnc: ws://0.0.0.0:4444/session/f..., se:vncEnabled: true, se:vncLocalAddress: ws://172.17.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ffcbbfb3380aa63bd786e5e4e22c6d82
+*** Element info: {Using=id, value=ap_email}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#ap_email"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-MVNUQ4K1', ip: '192.168.48.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: /tmp/.com.google.Chrome.49CtC4}, goog:chromeOptions: {debuggerAddress: localhost:36745}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://0.0.0.0:4444/session/f..., se:cdpVersion: 95.0.4638.69, se:vnc: ws://0.0.0.0:4444/session/f..., se:vncEnabled: true, se:vncLocalAddress: ws://172.17.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ffcbbfb3380aa63bd786e5e4e22c6d82
+*** Element info: {Using=id, value=ap_email}
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
+at org.openqa.selenium.By$ById.findElement(By.java:188)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy12.sendKeys(Unknown Source)
+at ca.amazon.pages.SignIn.Email(SignIn.java:37)
+at ca.amazon.TestSignIn.EmailTest(TestSignIn.java:40)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EmailTest -->
-        <test-method is-config="true" signature="EndSignInTest()[pri:0, instance:ca.amazon.TestSignIn@33c911a1]" started-at="2022-11-06T22:26:19 GMT-05:00" name="EndSignInTest" finished-at="2022-11-06T22:26:19 GMT-05:00" duration-ms="264" status="PASS">
+        <test-method is-config="true" signature="EndSignInTest()[pri:0, instance:ca.amazon.TestSignIn@33c911a1]" started-at="2022-11-19T22:24:31 GMT-05:00" name="EndSignInTest" finished-at="2022-11-19T22:24:32 GMT-05:00" duration-ms="1351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndSignInTest -->
+        <test-method is-config="true" signature="StartSignInTest()[pri:0, instance:ca.amazon.TestSignIn@33c911a1]" started-at="2022-11-19T22:24:32 GMT-05:00" name="StartSignInTest" finished-at="2022-11-19T22:25:54 GMT-05:00" duration-ms="81592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartSignInTest -->
+        <test-method signature="EmailTest()[pri:2, instance:ca.amazon.TestSignIn@33c911a1]" started-at="2022-11-19T22:25:54 GMT-05:00" name="EmailTest" finished-at="2022-11-19T22:26:52 GMT-05:00" duration-ms="58500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmailTest -->
+        <test-method is-config="true" signature="EndSignInTest()[pri:0, instance:ca.amazon.TestSignIn@33c911a1]" started-at="2022-11-19T22:26:52 GMT-05:00" name="EndSignInTest" finished-at="2022-11-19T22:26:53 GMT-05:00" duration-ms="1014" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EndSignInTest -->

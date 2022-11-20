@@ -7,16 +7,25 @@
   </listeners>
   <test thread-count="5" name="SignInProcess(failed)">
     <classes>
+      <class name="ca.amazon.TestSignIn">
+        <methods>
+          <include name="StartSignInTest"/>
+          <include name="EmailTest"/>
+          <include name="EndSignInTest"/>
+        </methods>
+      </class> <!-- ca.amazon.TestSignIn -->
       <class name="ca.amazon.TestHomePage">
         <methods>
           <include name="search"/>
           <include name="EndHomePageTest"/>
           <include name="StartHomePageTest"/>
+          <include name="search_page2"/>
         </methods>
       </class> <!-- ca.amazon.TestHomePage -->
       <class name="ca.amazon.TestSignInRedirect">
         <methods>
           <include name="StartSignInRedirectTest"/>
+          <include name="PasswordTest"/>
           <include name="SignInTest"/>
           <include name="RememberMeTest"/>
           <include name="EndSignInRedirectTest"/>

@@ -27,7 +27,7 @@ public class TestSignIn extends BaseTest {
 		}
 
 	
-	@Test(priority=1)
+	@Test(priority=1,groups="MyGroup")
 	public void SigninButtonTest() throws InterruptedException, IOException, TesseractException {
 		as.Signin();
 		String title = driver.getTitle();

@@ -5330,3 +5330,61 @@
 2022-11-06 22:27:23,518 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
 2022-11-06 22:27:23,518 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
 2022-11-06 22:27:23,518 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-19 21:31:43,667  INFO [main] RemoteDriverFactory:45 - Connecting with Chrome Browser through RemoteWebDriver
+2022-11-19 21:32:57,360  INFO [main] BaseTest:59 - Opening the URL
+2022-11-19 21:33:56,194  INFO [main] BaseTest:102 - All the windows of this browser is closed
+2022-11-19 21:33:56,216  INFO [main] RemoteDriverFactory:45 - Connecting with Chrome Browser through RemoteWebDriver
+2022-11-19 21:34:49,456  INFO [main] BaseTest:59 - Opening the URL
+2022-11-19 21:36:07,068  INFO [main] BaseTest:102 - All the windows of this browser is closed
+2022-11-19 21:36:07,076  INFO [main] RemoteDriverFactory:45 - Connecting with Chrome Browser through RemoteWebDriver
+2022-11-19 21:36:44,060  INFO [main] BaseTest:59 - Opening the URL
+2022-11-19 21:38:12,169  INFO [main] BaseTest:102 - All the windows of this browser is closed
+2022-11-19 21:38:12,171  INFO [main] RemoteDriverFactory:45 - Connecting with Chrome Browser through RemoteWebDriver
+2022-11-19 21:38:55,470  INFO [main] BaseTest:59 - Opening the URL
+2022-11-19 21:40:10,716 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-19 21:40:10,719 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-11-19 21:40:10,724 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-19 21:40:10,728 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-19 21:40:10,730 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-19 21:40:11,394 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-19 21:40:11,396 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-11-19 21:40:11,397 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-19 21:40:11,398 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-19 21:40:11,400 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-19 21:40:11,574  INFO [main] RemoteDriverFactory:45 - Connecting with Chrome Browser through RemoteWebDriver
+2022-11-19 21:45:18,599 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-19 21:45:18,601 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-11-19 21:45:18,603 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-19 21:45:18,604 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-19 21:45:18,604 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-19 21:45:18,800 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-19 21:45:18,801 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-11-19 21:45:18,802 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-19 21:45:18,803 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-19 21:45:18,803 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-19 22:06:33,849  INFO [main] RemoteDriverFactory:44 - Connecting with Chrome Browser through RemoteWebDriver
+2022-11-19 22:07:50,459  INFO [main] BaseTest:59 - Opening the URL
+2022-11-19 22:09:08,469  INFO [main] BaseTest:107 - Browser is closed
+2022-11-19 22:09:08,472  INFO [main] RemoteDriverFactory:44 - Connecting with Chrome Browser through RemoteWebDriver
+2022-11-19 22:20:21,948  INFO [main] RemoteDriverFactory:44 - Connecting with Chrome Browser through RemoteWebDriver
+2022-11-19 22:20:56,564  INFO [main] BaseTest:59 - Opening the URL
+2022-11-19 22:22:28,534  INFO [main] BaseTest:102 - All the windows of this browser is closed
+2022-11-19 22:22:28,569  INFO [main] RemoteDriverFactory:44 - Connecting with Chrome Browser through RemoteWebDriver
+2022-11-19 22:23:16,366  INFO [main] BaseTest:59 - Opening the URL
+2022-11-19 22:24:32,574  INFO [main] BaseTest:102 - All the windows of this browser is closed
+2022-11-19 22:24:32,580  INFO [main] RemoteDriverFactory:44 - Connecting with Chrome Browser through RemoteWebDriver
+2022-11-19 22:25:24,063  INFO [main] BaseTest:59 - Opening the URL
+2022-11-19 22:26:53,685  INFO [main] BaseTest:102 - All the windows of this browser is closed
+2022-11-19 22:26:53,694  INFO [main] RemoteDriverFactory:44 - Connecting with Chrome Browser through RemoteWebDriver
+2022-11-19 22:27:37,776  INFO [main] BaseTest:59 - Opening the URL
+2022-11-19 22:28:38,338  INFO [main] RemoteDriverFactory:44 - Connecting with Chrome Browser through RemoteWebDriver
+2022-11-19 22:33:48,737 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-19 22:33:48,738 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-11-19 22:33:48,741 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-19 22:33:48,742 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-19 22:33:48,746 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-19 22:33:49,529 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-19 22:33:49,532 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-11-19 22:33:49,535 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-19 22:33:49,538 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-19 22:33:49,541 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

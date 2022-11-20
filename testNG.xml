@@ -6,11 +6,17 @@
 	</listeners>
 
 	<test name="SignInProcess" allow-return-values="true">
+<!-- 	<groups> -->
+<!-- 	<run> -->
+<!-- 	<include name = "MyGroup"/> -->
+<!-- 	</run> -->
+<!-- 	</groups> -->
 		<classes>
 			<class name="ca.amazon.TestSignIn" />
 			<class name="ca.amazon.TestSignInRedirect" />
 			<class name="ca.amazon.TestHomePage" />
 		</classes>
+	
 	</test>
 </suite>
 
