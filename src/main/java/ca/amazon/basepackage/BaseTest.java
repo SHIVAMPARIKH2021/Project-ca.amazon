@@ -99,7 +99,7 @@ public class BaseTest {
 	public static void quitbrowser() {
 		if(driver != null) {
 		driver.quit();
-		log.info("All the windows of this browser is closed");
+		log.info("All the windows of this browser are closed");
 		}
 		else
 		{
