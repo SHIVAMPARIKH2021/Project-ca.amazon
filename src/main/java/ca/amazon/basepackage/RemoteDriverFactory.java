@@ -18,6 +18,18 @@ public final class RemoteDriverFactory {
 	private static WebDriver remotedriver;
 	private static URL url;
 	private static Logger log = Logger.getLogger(RemoteDriverFactory.class);
+	
+	static {
+		Scanner scaner = new Scanner(System.in);
+		System.out.print("Please Enter your Dynamic URL for RemoteWebDriver-->:");
+		String dynamicURL = scaner.next();
+		try {
+			url = new URL(dynamicURL);
+		} catch (MalformedURLException e) {
+			e.printStackTrace();
+		}
+	}
+	
 	private static WebDriver setRemoteWebDriver(String setBrowser) throws MalformedURLException {
 
 		dc = new DesiredCapabilities();
@@ -32,10 +44,8 @@ public final class RemoteDriverFactory {
 		case "firefox":
 			dc.setBrowserName("firefox");
 		}
-		Scanner scaner = new Scanner(System.in);
-		System.out.print("Please Enter your Dynamic URL for RemoteWebDriver-->"+":");
-		String dynamicURL = scaner.next();
-		url = new URL(dynamicURL);
+		
+		
 		remotedriver = new RemoteWebDriver(url,dc);
 		return remotedriver;
 	}

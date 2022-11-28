@@ -69,7 +69,7 @@ public class HomePage extends BaseTest {
 		return distincttotalResults;
 	}
 	
-	public List<WebElement> searchresult_page2() throws InterruptedException {
+	public List<WebElement> paginationResult() throws InterruptedException {
 		driver.manage().timeouts().pageLoadTimeout(EXPLICIT_WAIT, TimeUnit.MILLISECONDS);
 		JavascriptExecutor js = (JavascriptExecutor)driver;
 		js.executeScript("window.scrollBy(0,9000)");

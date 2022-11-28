@@ -48,10 +48,10 @@ public class TestHomePage extends BaseTest {
 	}
 	
 	@Test(priority=2)
-	public void search_page2() throws InterruptedException {
+	public void searchPagination() throws InterruptedException {
 		hp.searchItem("Gaming Laptops");
 		hp.searchButton();
-		hp.searchresult_page2();
+		hp.paginationResult();
 		hp.paginationAssertion();
 	}
 

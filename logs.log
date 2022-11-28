@@ -5388,3 +5388,104 @@
 2022-11-19 22:33:49,535 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
 2022-11-19 22:33:49,538 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
 2022-11-19 22:33:49,541 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-27 16:36:54,398  INFO [main] BaseTest:82 - Connecting with Edge Browser
+2022-11-27 16:36:56,125  INFO [main] BaseTest:59 - Opening the URL
+2022-11-27 16:37:03,814  INFO [main] BaseTest:102 - All the windows of this browser is closed
+2022-11-27 16:37:52,609  INFO [main] BaseTest:82 - Connecting with Edge Browser
+2022-11-27 16:37:54,303  INFO [main] BaseTest:59 - Opening the URL
+2022-11-27 16:37:58,404  INFO [main] BaseTest:102 - All the windows of this browser is closed
+2022-11-27 17:12:01,519  INFO [main] RemoteDriverFactory:44 - Connecting with Chrome Browser through RemoteWebDriver
+2022-11-27 17:12:31,545  INFO [main] BaseTest:59 - Opening the URL
+2022-11-27 17:12:59,742  INFO [main] BaseTest:102 - All the windows of this browser is closed
+2022-11-27 17:12:59,749  INFO [main] RemoteDriverFactory:44 - Connecting with Chrome Browser through RemoteWebDriver
+2022-11-27 17:13:29,443  INFO [main] BaseTest:59 - Opening the URL
+2022-11-27 17:13:53,986  INFO [main] BaseTest:102 - All the windows of this browser is closed
+2022-11-27 17:13:53,988  INFO [main] RemoteDriverFactory:44 - Connecting with Chrome Browser through RemoteWebDriver
+2022-11-27 18:57:27,864  WARN [main] BaseTest:53 - Input Cofiguration Operation is Interrupted
+2022-11-27 18:57:27,875  WARN [main] BaseTest:53 - Input Cofiguration Operation is Interrupted
+2022-11-27 18:57:28,149  WARN [main] BaseTest:53 - Input Cofiguration Operation is Interrupted
+2022-11-27 18:57:28,232  WARN [main] BaseTest:53 - Input Cofiguration Operation is Interrupted
+2022-11-27 18:57:28,241  WARN [main] BaseTest:53 - Input Cofiguration Operation is Interrupted
+2022-11-27 18:57:28,888 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-27 18:57:28,890 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-11-27 18:57:28,893 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-27 18:57:28,896 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-27 18:57:28,896 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-27 18:57:29,319 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-27 18:57:29,320 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-11-27 18:57:29,321 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-27 18:57:29,322 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-27 18:57:29,322 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-27 18:59:11,498  WARN [main] BaseTest:53 - Input Cofiguration Operation is Interrupted
+2022-11-27 18:59:11,512  WARN [main] BaseTest:53 - Input Cofiguration Operation is Interrupted
+2022-11-27 18:59:11,737  WARN [main] BaseTest:53 - Input Cofiguration Operation is Interrupted
+2022-11-27 18:59:11,822  WARN [main] BaseTest:53 - Input Cofiguration Operation is Interrupted
+2022-11-27 18:59:11,835  WARN [main] BaseTest:53 - Input Cofiguration Operation is Interrupted
+2022-11-27 18:59:12,347 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-27 18:59:12,349 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-11-27 18:59:12,351 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-27 18:59:12,352 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-27 18:59:12,353 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-27 18:59:12,765 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-27 18:59:12,766 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-11-27 18:59:12,767 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-27 18:59:12,769 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-27 18:59:12,770 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-27 19:00:47,285  INFO [main] BaseTest:82 - Connecting with Edge Browser
+2022-11-27 19:00:47,759  INFO [main] BaseTest:59 - Opening the URL
+2022-11-27 19:00:51,979  INFO [main] BaseTest:102 - All the windows of this browser is closed
+2022-11-27 19:00:52,746  INFO [main] BaseTest:82 - Connecting with Edge Browser
+2022-11-27 19:00:53,253  INFO [main] BaseTest:59 - Opening the URL
+2022-11-27 19:00:58,857  INFO [main] BaseTest:102 - All the windows of this browser is closed
+2022-11-27 19:00:59,689  INFO [main] BaseTest:82 - Connecting with Edge Browser
+2022-11-27 19:01:01,132  INFO [main] BaseTest:59 - Opening the URL
+2022-11-27 19:01:04,875  INFO [main] BaseTest:82 - Connecting with Edge Browser
+2022-11-27 19:01:06,509  INFO [main] BaseTest:59 - Opening the URL
+2022-11-27 19:01:14,154  INFO [main] BaseTest:102 - All the windows of this browser is closed
+2022-11-27 19:01:16,654  INFO [main] BaseTest:82 - Connecting with Edge Browser
+2022-11-27 19:01:18,713  INFO [main] BaseTest:59 - Opening the URL
+2022-11-27 19:01:21,902 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-27 19:01:21,902 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-11-27 19:01:21,902 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-27 19:01:21,902 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-27 19:01:21,902 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-27 19:01:22,179 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-27 19:01:22,179 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-11-27 19:01:22,179 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-27 19:01:22,179 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-27 19:01:22,179 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-27 19:01:22,288 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-27 19:01:22,288 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-11-27 19:01:22,288 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-27 19:01:22,288 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-27 19:01:22,288 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-27 19:01:22,398 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-27 19:01:22,398 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-11-27 19:01:22,413 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-27 19:01:22,413 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-27 19:01:22,413 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-27 19:07:20,929  INFO [main] RemoteDriverFactory:54 - Connecting with Chrome Browser through RemoteWebDriver
+2022-11-27 19:07:54,844  INFO [main] BaseTest:59 - Opening the URL
+2022-11-27 19:08:30,305  INFO [main] BaseTest:102 - All the windows of this browser is closed
+2022-11-27 19:08:30,312  INFO [main] RemoteDriverFactory:54 - Connecting with Chrome Browser through RemoteWebDriver
+2022-11-27 19:08:50,045  INFO [main] BaseTest:59 - Opening the URL
+2022-11-27 19:09:21,456  INFO [main] BaseTest:102 - All the windows of this browser is closed
+2022-11-27 19:09:21,458  INFO [main] RemoteDriverFactory:54 - Connecting with Chrome Browser through RemoteWebDriver
+2022-11-27 19:09:35,037  INFO [main] BaseTest:59 - Opening the URL
+2022-11-27 19:10:16,475  INFO [main] BaseTest:102 - All the windows of this browser is closed
+2022-11-27 19:10:16,478  INFO [main] RemoteDriverFactory:54 - Connecting with Chrome Browser through RemoteWebDriver
+2022-11-27 19:10:31,058  INFO [main] BaseTest:59 - Opening the URL
+2022-11-27 19:10:58,688  INFO [main] BaseTest:102 - All the windows of this browser is closed
+2022-11-27 19:10:58,690  INFO [main] RemoteDriverFactory:54 - Connecting with Chrome Browser through RemoteWebDriver
+2022-11-27 19:11:08,743  INFO [main] BaseTest:59 - Opening the URL
+2022-11-27 19:11:12,493  INFO [main] RemoteDriverFactory:54 - Connecting with Chrome Browser through RemoteWebDriver
+2022-11-27 19:16:12,810 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-27 19:16:12,813 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-11-27 19:16:12,815 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-27 19:16:12,816 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-27 19:16:12,816 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-27 19:16:13,104 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-27 19:16:13,105 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-11-27 19:16:13,106 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-27 19:16:13,107 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-27 19:16:13,108 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

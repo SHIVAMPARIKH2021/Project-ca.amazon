@@ -5,16 +5,12 @@
 		<listener class-name="ca.amazon.utilities.FailTestUtils"/>
 	</listeners>
 
-	<test name="SignInProcess" allow-return-values="true">
-<!-- 	<groups> -->
-<!-- 	<run> -->
-<!-- 	<include name = "MyGroup"/> -->
-<!-- 	</run> -->
-<!-- 	</groups> -->
+	<test name="SignInProcess"  allow-return-values="true">
+
 		<classes>
-			<class name="ca.amazon.TestSignIn" />
-			<class name="ca.amazon.TestSignInRedirect" />
-			<class name="ca.amazon.TestHomePage" />
+			<class name = "ca.amazon.TestSignIn" />
+			<class name = "ca.amazon.TestSignInRedirect" />
+			<class name = "ca.amazon.TestHomePage" />
 		</classes>
 	
 	</test>

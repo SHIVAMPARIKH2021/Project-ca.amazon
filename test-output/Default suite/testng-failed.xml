@@ -5,9 +5,9 @@
     <classes>
       <class name="ca.amazon.TestHomePage">
         <methods>
+          <include name="search"/>
           <include name="EndHomePageTest"/>
           <include name="StartHomePageTest"/>
-          <include name="search_page2"/>
         </methods>
       </class> <!-- ca.amazon.TestHomePage -->
     </classes>

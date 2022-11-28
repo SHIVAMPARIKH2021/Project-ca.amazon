@@ -61,7 +61,7 @@ public class BaseTest {
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
 		WebDriverWait wait = new WebDriverWait(driver, BaseTest.EXPLICIT_WAIT);
-		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[text()='Hello, sign in']")));	
+		
 	}
 	
 	public static void initiate() throws MalformedURLException {
