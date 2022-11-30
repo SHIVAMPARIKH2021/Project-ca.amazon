@@ -5489,3 +5489,6 @@
 2022-11-27 19:16:13,106 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
 2022-11-27 19:16:13,107 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
 2022-11-27 19:16:13,108 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-30 04:30:45,636  INFO [main] BaseTest:83 - Connecting with Edge Browser
+2022-11-30 04:30:48,016  INFO [main] BaseTest:60 - Opening the URL
+2022-11-30 04:30:52,378  INFO [main] BaseTest:103 - All the windows of this browser are closed

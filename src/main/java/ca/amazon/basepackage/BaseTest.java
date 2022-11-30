@@ -44,14 +44,15 @@ public class BaseTest {
 	public BaseTest() {
 		try {
 		prop = new Properties();	
-		file = new FileInputStream("C:\\Users\\shiva\\eclipse-workspace\\ca.amazon\\src\\main\\java\\ca\\amazon\\configuration\\configuration.properties");
+		file = new FileInputStream("{user.dir}\\src\\main\\java\\ca\\amazon\\configuration\\configuration.properties");
 		prop.load(file);
+		file.close();
 	 }
 		catch(IOException e) {
 			e.printStackTrace();
 			System.out.println("Configurations are not found; Restart the process or Check the program");
 			log.warn("Input Cofiguration Operation is Interrupted");
-		}	
+		}
     }
 	
 	private static void get() {
