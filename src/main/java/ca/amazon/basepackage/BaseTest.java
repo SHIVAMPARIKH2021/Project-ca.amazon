@@ -37,6 +37,7 @@ public class BaseTest {
 	private static ExtentTest extenttest;
 	private static boolean flag;
 	private static DesiredCapabilities dc;
+	private static String current = System.getProperty("user.dir");
 	
 	
 
@@ -44,7 +45,7 @@ public class BaseTest {
 	public BaseTest() {
 		try {
 		prop = new Properties();	
-		file = new FileInputStream("{user.dir}\\src\\main\\java\\ca\\amazon\\configuration\\configuration.properties");
+		file = new FileInputStream(current+"\\src\\main\\java\\ca\\amazon\\configuration\\configuration.properties");
 		prop.load(file);
 		file.close();
 	 }

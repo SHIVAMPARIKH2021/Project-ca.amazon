@@ -35,7 +35,7 @@ public class FailTestUtils extends BaseTest implements ITestListener{
 	}
 
 	// Overrieded method from 'ITestListner'
-public void onTestFailure(ITestResult result) {
+	public void onTestFailure(ITestResult result) {
 
 		extent = new ExtentReports(System.getProperty("user.dir") + "/test-output/DefectExtent.html", true);
 		extent.addSystemInfo("Environment", "Testing Environment");
