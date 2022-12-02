@@ -6,8 +6,8 @@
   <description>Live Project. Testing of 'amazon.ca'</description>
   
   <properties>
-   <maven.compiler.source>1.6</maven.compiler.source>
-   <maven.compiler.target>1.6</maven.compiler.target>
+   <maven.compiler.source>1.7</maven.compiler.source>
+   <maven.compiler.target>1.7</maven.compiler.target>
  </properties>
  
   <dependencies>
@@ -20,7 +20,7 @@
     <version>4.5.4</version>
 </dependency>
 
- 	<!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
+<!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
 <!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
 <dependency>
     <groupId>io.github.bonigarcia</groupId>
